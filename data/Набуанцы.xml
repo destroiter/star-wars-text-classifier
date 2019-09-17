@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9D%D0%B0%D0%B1%D1%83%D0%B0%D0%BD%D1%86%D1%8B/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Набуанцы]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Статьи с утверждениями без источников]]></item>
+    <item type="str"><![CDATA[Заготовки о расах]]></item>
+    <item type="str"><![CDATA[Расы людей]]></item>
+    <item type="str"><![CDATA[Набуанцы]]></item>
+    <item type="str"><![CDATA[Планетарные культурные группы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Набуанцы (англ. Naboo) — человеческое население планеты Набу. В отличие от аборигенов гунган, с которыми они делили этот мир, набуанцы происходили от пришлых людей-колонистов с Гризмаллта. Ведомые Квилааном колонисты потерпели крушение на родине гунган и основали там своё поселение. Набуанцы-аристократы были известны своей любовью к экстравагантным одеяниям. В отличие от гунган, которые были расой гордых воинов, люди-колонисты Набу были пацифистами. Эта разность мировоззрений породила вековую напряжённость во взаимоотношениях двух цивилизаций.]]></text>
+</doc>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B4%D1%80%D0%BE%D0%B8%D0%B4_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_OOM]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Боевой дроид серии OOM]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Боевые дроиды серии OOM]]></item>
+    <item type="str"><![CDATA[Серии дроидов]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Серия OOM- серия дроидов, представители которой очень похожи на дроидов B1, однако обладали более развитой программой. Эти дроиды служили в армии Торговой Федерации, а после в Сепаратистской армии дроидов. После уничтожения Совета сепаратистов эти дроиды были использованы Сопротивлением Конфедерации.
+Виды
+Боевой дроид командир OOM- жёлтая маркировка
+Боевой дроид-пилот серии OOM- синяя маркировка
+Боевой дроид-охранник серии OOM- красная маркировка]]></text>
+</doc>

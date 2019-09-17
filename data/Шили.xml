@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A8%D0%B8%D0%BB%D0%B8/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Шили]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Планеты по алфавиту]]></item>
+    <item type="str"><![CDATA[Планеты Региона Экспансии]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Шили (англ. Shili) — планета в регионе Экспансии галактики, родной мир расы тогрут. Мастер-джедай Шаак Ти и оперативник повстанцев Асока Тано родились на Шили. Мастер-джедай Пло Кун нашёл Асоку на Шили и привёз её на Корусант в Храм джедаев.
+Планета была известна в галактике за популярные головидео-мелодрамы.]]></text>
+</doc>

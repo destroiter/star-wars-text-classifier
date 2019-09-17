@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%AD%D1%84%D0%B0%D0%BD%D1%82_%D0%9C%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Эфант Мон]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Контрабандисты]]></item>
+    <item type="str"><![CDATA[Гангстеры]]></item>
+    <item type="str"><![CDATA[Чевины]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Чувствительные к Силе]]></item>
+    <item type="str"><![CDATA[Религиозные деятели]]></item>
+    <item type="str"><![CDATA[Жители Татуина]]></item>
+    <item type="str"><![CDATA[Наёмники]]></item>
+    <item type="str"><![CDATA[Слуги Джаббы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Эфант Мон (англ. Ephant Mon) — мужчина, чевин с планеты Винсот, работающий в качестве контрабандиста, являясь чувствительным к силе. В юности был очень силён и благодаря этому стал очень уважаемым. Именно он похитил дочь Ки-Ади-Мунди.
+Также известно, что Эфант работал на Джаббу Десилиджика Тиуре. После его смерти на Татуине, Мон покинул Татуин и улетел к себе на родину. Там, воодушевившись после встречи с Скайуокером, он создал религиозную секту, поклоняющуюся Великой силе. Правда, от предыдущих дел он не отошел (занимается аферами), но деньги идут исключительно на поддержание секты и создание храма.]]></text>
+</doc>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A1%D0%B0%D0%B9-%D0%BC%D0%B8%D1%80%D1%82%D0%B8%D0%B0%D0%BD%D1%86%D1%8B]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Сай-миртианцы]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Сай-миртианцы]]></item>
+    <item type="str"><![CDATA[Расы (С)]]></item>
+    <item type="str"><![CDATA[Разумные млекопитающие]]></item>
+    <item type="str"><![CDATA[Расы Внешнего Кольца]]></item>
+    <item type="str"><![CDATA[Разумные расы]]></item>
+    <item type="str"><![CDATA[Разумные брюхоногие]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Сай-миртианцы (англ. Sy Myrthian) — разумная раса с планеты Сай-Мирт.
+Биология и внешний вид
+Сай-миртианцы, очевидно, были млекопитающими брюхоногими, передвигавшимися с помощью одной большой «ноги» (как у хаттов. Они имели удлиненную голову, а их тело покрывала короткая шерсть.
+История
+Во время пребывания в составе Галактической Республики сай-миртианцев в Сенате представляла Тунбак Тура. Незадолго до Битвы за Джеонозис сай-миртианцы вышли из состава Республики и присоединились к Конфедерации независимых систем. Позднее они были представлены в сенате Новой Республики.]]></text>
+</doc>

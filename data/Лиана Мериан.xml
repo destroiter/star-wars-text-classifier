@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9B%D0%B8%D0%B0%D0%BD%D0%B0_%D0%9C%D0%B5%D1%80%D0%B8%D0%B0%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Лиана Мериан]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Альдераанцы]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Бюрократы Галактической Республики]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Лиана Мериан - помощница сенатора Бейла Антиллеса около 32 ДБЯ, родом с планеты Альдераан. Позже, около 22 ДБЯ, она работала вместе с Агриппой Алдрете и Финисом Валорумом для организации поселений беженцев на Альдераане.
+Интересные факты
+Лиана Мериан является одним из многих персонажей Галактического Сената, вырезанных из финальной версии «Скрытой угрозы».]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%93%D1%80%D0%B0%D1%84_%D0%A1%D0%B5%D1%80%D0%B5%D0%BD%D0%BD%D0%BE/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Граф Серенно]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о титулах, званиях или специальностях]]></item>
+    <item type="str"><![CDATA[Титулы]]></item>
+    <item type="str"><![CDATA[Знать]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Граф Серенно (англ. Count of Serenno) — титул, принадлежавший Дуку, происходившему из древнего рода с планеты Серенно, с момента его рождения и вплоть до его смерти во время битвы при Корусанте. Плащ Дуку был символом графа Серенно. В 10 ДБЯ титул графа Серенно принадлежал Хродберу, гостившему на «Первом свете», личной яхте криминального лорда Багрового рассвета Драйдена Воса.
+За кулисами
+Граф Серенно в лице Дуку впервые появился в фильме 2002 года «Звёздные войны. Эпизод II: Атака клонов», второй части трилогии приквелов «Звёздных войн».]]></text>
+</doc>

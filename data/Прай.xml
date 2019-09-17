@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9F%D1%80%D0%B0%D0%B9]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Прай]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Статьи с крупными спойлерами]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Персонажи неизвестной расы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Прай (англ. Prie) — женщина, джедай-падаван, много времени проводившая со своим учителем на неразвитых мирах, защищая новые поселения.]]></text>
+</doc>

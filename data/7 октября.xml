@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/7_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[7 октября]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Октябрь]]></item>
+    <item type="str"><![CDATA[7 октября]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[7 октября — 280-й день года (281-й в високосные годы) в григорианском календаре. До конца года остаётся 85 дней.
+1950 — родился Говард Чайкин.
+1959 — родилась Кэтрин Манро.
+2005 — скончался Чарльз Рокет.
+2009 – публикация комикса Star Wars: Invasion 4: Refugees, Part 4]]></text>
+</doc>

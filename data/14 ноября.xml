@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/14_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[14 ноября]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Ноябрь]]></item>
+    <item type="str"><![CDATA[14 ноября]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[14 ноября — 318-й день года (319-й в високосные годы) в григорианском календаре. До конца года остаётся 47 дней.
+2001 — выход комикса Jedi Quest 3.
+2002 — выпущена компьютерная игра Star Wars: The New Droid Army (Платформа Game Boy Advance).
+2006 — публикация книги Sculpting a Galaxy: Inside the Star Wars Model Shop.
+2008 — вышел в эфир эпизод «Дуэль дроидов»]]></text>
+</doc>

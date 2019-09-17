@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%94%D1%83%D1%80%D0%BE%D1%81%D1%8B/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Дуросы]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Расы (Д)]]></item>
+    <item type="str"><![CDATA[Дуросы]]></item>
+    <item type="str"><![CDATA[Гуманоидные расы]]></item>
+    <item type="str"><![CDATA[Разумные расы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Дуросы (англ. Duros) — гуманоидная раса с синей или зелёной кожей, красными глазами, безгубыми ртами и вытянутыми безносыми лицами. Их большие красные глаза имели вытянутые зрачки. У дуросов была зелёная кровь. Наиболее известным представителем этой расы был Кэд Бэйн, знаменитый охотник за головами времён Войн клонов.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D0%B5_%D0%B1%D0%B5%D0%BB%D1%8C%D1%91/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Нижнее бельё]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Одежда]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Нижнее бельё (англ. Underwear) — разновидность одежды, носившейся разумными в галактике. Большинство людей и близких к ним рас носили нижнее бельё к эпохе Империи. Перед погружением в бакта-камеры разумных раздевали до нижнего белья, чтобы обеспечить бакте доступ к повреждённым участкам тела, как это было с Лоботом,, Люком Скайуокером и Кэнаном Джаррусом. В разговоре с Люком Накари Келен иносказательно упомянула, что человек, уничтоживший «Звезду Смерти», должен был носить очень крепкое нижнее бельё.]]></text>
+</doc>

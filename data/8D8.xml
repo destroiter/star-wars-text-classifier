@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/8D8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[8D8]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о дроидах]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Слуги Джаббы]]></item>
+    <item type="str"><![CDATA[Пыточные дроиды]]></item>
+    <item type="str"><![CDATA[Дроиды-рабочие]]></item>
+    <item type="str"><![CDATA[Дроиды-плавильщики 8D8]]></item>
+    <item type="str"><![CDATA[Продукция Roche Hive Mechanical Apparatus Design and Construction Activity for Those Who Need the Hive's Machines]]></item>
+    <item type="str"><![CDATA[Запрограммированные как мужчины]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[8D8 — промышленный дроид, изготовленный на заводе по производству дроидов серии 8D (Завод Верпина Рочи). Имеет прозвище - "Восемь Восемь" (от англ. "Atedeate").
+Биография
+Дроид 8D8 был произведен для работы на объектах по добыче руды, впрочем как и все дроиды его серии. Дроиды 8D были очень сильными, прочными и простыми.
+В какой-то момент дроида перепрограммировали для работы на корабле по ремонту и обслуживанию дроидов.
+Позже вместе с дроидом EV-9D9 он был перевезен на Татуин, в Дворец Джаббы. Там его полностью перепрограммировали, после чего он стал утилизатором неисправных дроидов и бытовых отходов. Также в его обязанности входило пытать дроидов. Несмотря на перепрограммирование, у 8D8 сохранилась личная неприязнь к его строгому надзирателю — EV-9D9.]]></text>
+</doc>

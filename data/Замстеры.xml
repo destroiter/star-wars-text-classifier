@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%97%D0%B0%D0%BC%D1%81%D1%82%D0%B5%D1%80%D1%8B]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Замстеры]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки о расах]]></item>
+    <item type="str"><![CDATA[Замстеры]]></item>
+    <item type="str"><![CDATA[Разумные расы]]></item>
+    <item type="str"><![CDATA[Расы (З)]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Замстеры, или зомяки, — раса разумных пресмыкающихся с планеты Загоба. Замстером был Нейва Ки.
+За кулисами
+Возможно, название расы происходит от английского слова «hamster», в переводе означающего «хомяк», откуда получается второе название расы - «зомяки»]]></text>
+</doc>

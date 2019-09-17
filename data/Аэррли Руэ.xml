@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%90%D1%8D%D1%80%D1%80%D0%BB%D0%B8_%D0%A0%D1%83%D1%8D]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Аэррли Руэ]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Пилоты]]></item>
+    <item type="str"><![CDATA[Персонажи неизвестной расы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Аэррли Руэ был мужчиной неизвестной расы, свободным пилотом в годы заката Галактической Республики.
+Биография
+Пилот неизвестной гуманоидной расы, Аэррли Руэ был независимым путешественником и странствовал по Галактике. В 32 ДБЯ Руэ присутствовал на планете Татуин и посетил гонку Бунта Ив, на которой сенсационную победу одержал юный Энакин Скайуокер.
+За кулисами
+Аэррли Руэ эпизодически появляется в фильме Джорджа Лукаса Звёздные войны. Эпизод I: Скрытая угроза, как один из зрителей гонок Бунта Ив. Имя персонажу было присвоено в карточной игре Young Jedi Collectible Card Game – Boonta Eve Podrace.]]></text>
+</doc>

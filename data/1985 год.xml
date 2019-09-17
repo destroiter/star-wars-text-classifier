@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/1985_%D0%B3%D0%BE%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[1985 год]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Годы (реальный мир)]]></item>
+    <item type="str"><![CDATA[1985 год]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Список событий 1985 года, связанных со вселенной «Звёздных войн».
+Март
+26 — родилась Кира Найтли.
+Июнь
+12 — родилась Мэделин Ру.
+Июль
+14 — родилась Фиби Уоллер-Бридж.]]></text>
+</doc>

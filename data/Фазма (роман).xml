@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A4%D0%B0%D0%B7%D0%BC%D0%B0_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Фазма (роман)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки о книгах]]></item>
+    <item type="str"><![CDATA[Неполный список]]></item>
+    <item type="str"><![CDATA[Каноничные романы]]></item>
+    <item type="str"><![CDATA[От истоков к «Последним джедаям»]]></item>
+    <item type="str"><![CDATA[Книги издательства Del Rey]]></item>
+    <item type="str"><![CDATA[Романы 2017 года]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Фазма (англ. Phasma) — роман Делайлы Доусон, который является частью серии «От истоков к «Последним джедаям».]]></text>
+</doc>

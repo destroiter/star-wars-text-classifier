@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9A%D0%B0%D0%BF%D1%80%D0%B0%D0%BB/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Капрал]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Воинские звания]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Капрал (англ. Corporal) — воинское звание, чаще всего присваиваемое армейским военнослужащим. Звание имело более высокий статус чем рядовой или солдат, но ниже сержанта.
+Комета и Эхо были солдатами-клонами, носившими звание капралов.
+Имея звание полковника Великой армии республики, Мибур Гаскон обращался к WAC-47 "капрал". Но позже, когда оба прониклись уважением друг к другу, Гаскон пообещал присвоить WAC звание капрала по настоящему.]]></text>
+</doc>

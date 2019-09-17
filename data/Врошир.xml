@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%92%D1%80%D0%BE%D1%88%D0%B8%D1%80/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Врошир]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Растения Кашиика]]></item>
+    <item type="str"><![CDATA[Деревья]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Врошир (англ. Wroshyr) — гигантские деревья, произраставшие на планете Кашиик. Вуки, местные жители Кашиика, строили свои города на ветвях и внутри стволов деревьев. Древесина вроширов использовалась вуки для создания оружия, а некоторые вуки создавали скульптуры из этого материала. Вроширы были необычайно крепкими и могли выдержать попадание из лазерного оружия, а на их корнях образовывался врошит, кристалл, использовавшийся для калибровки оружия. Некоторые вроширы достигали километров в высоту, а прибрежные — 300—400 метров.]]></text>
+</doc>

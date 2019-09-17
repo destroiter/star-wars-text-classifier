@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B8%D1%84%D1%84%D0%B8%D0%B0%D0%BD%D1%86%D1%8B]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Триффианцы]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки о расах]]></item>
+    <item type="str"><![CDATA[Триффианцы]]></item>
+    <item type="str"><![CDATA[Расы (Т)]]></item>
+    <item type="str"><![CDATA[Разумные расы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Триффианцы (англ. Triffian) — тучные мохнатые разумные существа с планеты Триффис. Толстые и низкорослые, они отличались от других рас наличием на голове «ушей», используемых для терморегулирования.
+Триффианцем был Эб Эндокотт.]]></text>
+</doc>

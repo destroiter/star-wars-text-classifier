@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Кристалл]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Неполный список]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Кристаллы (англ. Crystals) — твёрдые вещества с особыми свойствами. Кристаллы отличались жёсткой внутренней структурой составлявших их элементов: атомов, молекул или ионов, расположение которых формировало единый для всего кристалла рисунок, бывший индивидуальным для всех кристаллов.
+Джедаи и ситхи использовали во всех своих световых мечах особые кайбер-кристаллы.
+Ещё одним типом кристаллов были нова-кристаллы. Некоторые планеты, такие как Кристофсис, были кристаллическими по своей природе.]]></text>
+</doc>

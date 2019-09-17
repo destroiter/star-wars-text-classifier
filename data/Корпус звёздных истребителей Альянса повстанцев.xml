@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%90%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%B0_%D0%BF%D0%BE%D0%B2%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B5%D0%B2]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Корпус звёздных истребителей Альянса повстанцев]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки об Альянсе за восстановление Республики]]></item>
+    <item type="str"><![CDATA[Эскадрильи Альянса повстанцев]]></item>
+    <item type="str"><![CDATA[Боевые подразделения Альянса повстанцев]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Корпус звёздных истребителей Альянса повстанцев (англ. Rebel Alliance Starfighter Corps) — соединение звёздных истребителей Альянса за восстановление Республики. В соединение входили многие пилоты-повстанцы, принимавшие участвовали в таких крупных сражениях Галактической гражданской войны как: битва при Явине, битва при Хоте и битва при Эндоре.]]></text>
+</doc>

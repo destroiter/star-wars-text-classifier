@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%BF%D0%BE_%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5_%D0%BF%D0%BB%D0%B0%D0%B7%D0%BC%D1%8B]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Комплекс по переработке плазмы]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о зданиях]]></item>
+    <item type="str"><![CDATA[Промышленные заводы]]></item>
+    <item type="str"><![CDATA[Локации Тида]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Комплекс по переработке плазмы (англ. Plasma Refinery Complex) — огромное сооружение, представлявшее собой три увенчанных куполом здания, возведённых над обрывом рядом с королевским дворцом Набу в городе Тид. Построенный для извлечения огромного количества редкой плазмы из ядра планеты, перерабатывающий комплекс был соединён с ангаром Тида и главным реактором города, а также со штаб-квартирой Королевских сил безопасности Набу.]]></text>
+</doc>

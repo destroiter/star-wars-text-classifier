@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/10_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[10 апреля]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Апрель]]></item>
+    <item type="str"><![CDATA[10 апреля]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[10 апреля — 100-й день года (101-й в високосные годы) в григорианском календаре. До конца года остаётся 265 дней.
+1921 — родился Шеб Вули, автор «крика Вильгельма».
+1929 — родился Макс фон Сюдов.
+1951 — родился Питер Бернштейн.
+1954 — родился Питер Макникол.
+1974 — родился Денис Беспалый.
+1981 — фильм «Звёздные войны. Эпизод IV: Новая надежда» вновь выпущен в кинотеатрах.
+1992 — родилась Дэйзи Ридли.
+2015 — переиздание всех шести эпизодов «Звёздных войн» в цифровом формате.
+2017 — скончалась Маргарет Таунер.
+2019 — публикация комикса Age of Rebellion - Grand Moff Tarkin 1.
+2019 — публикация комикса Age of Rebellion - Princess Leia 1.]]></text>
+</doc>

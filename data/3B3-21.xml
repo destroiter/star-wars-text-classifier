@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/3B3-21]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[3B3-21]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Дезактивированные в 32 ДБЯ]]></item>
+    <item type="str"><![CDATA[Запрограммированные как мужчины]]></item>
+    <item type="str"><![CDATA[Боевые дроиды B1]]></item>
+    <item type="str"><![CDATA[Члены Торговой федерации]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[3B3-21 — боевой дроид B1, служивший в армии дроидов Торговой федерации при вице-короле Нуте Ганрее. В 32 ДБЯ он принял участие во вторжении на Набу. В ходе битвы за Набу 3B3-21 участвовал в перестрелке с королевой Амидалой и её людьми в одном из коридоров дворца Тида. Во время сражения набуанцы разбили окно, чтобы перебраться на этаж выше. Позже 3B3-21 был деактивирован, когда его корабль управления был уничтожен Энакином Скайуокером.]]></text>
+</doc>

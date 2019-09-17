@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A1%D0%B0%D0%B9%D1%80%D0%B5%D0%BD-%D1%88%D1%91%D0%BB%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Сайрен-шёлк]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Шелка]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Сайрен-шёлк (англ. Cyrene silk) — мягкая чёрная ткань, использовавшаяся для шитья роскошной одежды. Такая ткань, из которой вместе с тень-шёлком делали несколько комплектов одеяний, существовала ещё в период Холодной войны.
+Одно из платьев королевы Набу Падме Амидалы, надевавшееся ей за пределами родного мира, было скроено из сайрен-шёлка.]]></text>
+</doc>

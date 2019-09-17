@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_3PO]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Модель 3PO]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о дроидах]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Модель 3PO - модель протокольного дроида, разработанная компанией «Cybot Galactica», в какой-то период до Вторжение на Набу. Эти дроиды были оборудованы модулем связи «TranLang III», что позволяло им владеть 6 миллионами форм общения. C-3PO является примером дроида этой модели.]]></text>
+</doc>

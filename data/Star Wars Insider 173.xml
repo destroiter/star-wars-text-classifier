@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/Star_Wars_Insider_173]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Star Wars Insider 173]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о журналах]]></item>
+    <item type="str"><![CDATA[Star Wars Insider]]></item>
+    <item type="str"><![CDATA[Журналы 2017 года]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Star Wars Insider 173 — 151 выпуск журнала «Star Wars Insider», вышедший 23 мая 2017 года и приуроченный к 40-летию «Звёздных войн».]]></text>
+</doc>

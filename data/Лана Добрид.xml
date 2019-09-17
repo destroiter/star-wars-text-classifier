@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9B%D0%B0%D0%BD%D0%B0_%D0%94%D0%BE%D0%B1%D1%80%D0%B8%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Лана Добрид]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Механики]]></item>
+    <item type="str"><![CDATA[Жители Татуина]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Лана Добрид (англ. Lana Dobreed) — человек, мужчина, уроженец города Мос-Эспа на Татуине. Первоначально он был механиком, ремонтировавшим подрейсеры. Он даже имел свой собственный магазин, но его большая склонность к азартным играм мешала бизнесу и вскоре привела к большим долгам. Лане пришлось заняться услугами перевозки, чтобы хоть как-то выжить.]]></text>
+</doc>

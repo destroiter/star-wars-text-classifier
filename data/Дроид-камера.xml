@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%94%D1%80%D0%BE%D0%B8%D0%B4-%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%B0/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Дроид-камера]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Дриоды-камеры или ховер-камеры (англ. Cam droids, hovercams) — репульсорные дроиды, использовавшиеся в качестве автономных записывающих устройств. Каждое заседание Галактического Сената записывалось такими дроидами. Дроиды-камеры, оснащенные голокамерами, назывались дроидами-голокамерами (англ. holocam droids) и использовались в Сенате Новой Республики.]]></text>
+</doc>

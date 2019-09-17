@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/LucasArts]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[LucasArts]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Видеоигры LucasArts]]></item>
+    <item type="str"><![CDATA[Компании Лукаса]]></item>
+    <item type="str"><![CDATA[Издатели видеоигр]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[LucasArts Entertainment — основанное в мае 1982 года подразделение Lucasfilm Ltd., задача которого — разработка и издание развлекательного программного обеспечения. Первоначальное название —Lucasfilm Games (полный вариант Lucasfilm Computer Division Games Group), преобразование в LucasArts и ребрэндинг прошли в 1990 году.
+4 апреля 2013 года Walt Disney Company объявила о ликвидации студии LucasArts и закрытии всех проектов студии. Disney будет использовать имя LucasArts в своих последующих проектах.
+Подразделение разработало и издало такие игры, как:
+Labyrinth: The Computer Game (основанная на фильме 1986-го года "Лабиринт");
+Maniac Mansion (первый графический квест LucasArts, выполненный на движке SCUMM — отныне и на долгие годы игрок был избавлен от необходимости набирать текстовые команды на клавиатуре и воцарился стандарт point'n'click);
+Zak McKracken and the Alien Mindbenders;
+LOOM;
+Day of the Tentacle;
+Серия Monkey Island;
+Sam & Max Hit The Road;
+Full Throttle;
+Серия Indiana Jones
+Многочисленные игры на тему «Звёздных Войн» (по некоторым данным, именно для создания игр по этой вселенной Джордж Лукас и учредил Lucasfilms Games);
+Многие другие.]]></text>
+</doc>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9F%D1%83%D1%88%D0%BA%D0%B0/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Пушка]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки о технологиях]]></item>
+    <item type="str"><![CDATA[Неполный список]]></item>
+    <item type="str"><![CDATA[Cannons]]></item>
+    <item type="str"><![CDATA[Weapon types]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Пушка (англ. cannon) — вид вооружения, способного вести огонь либо мощными реактивными снарядами, либо сгустками энергии. Такой тип вооружения по умолчанию устанавливался на боевые и некоторые гражданские звёздные корабли и мог быть установлен на другие транспортные средства.
+Лазерная пушка являлась мощной разновидностью пушек, которая устанавливалась на многие звёздные корабли, при этом существовали и ручные версии, которые могли использоваться как личное оружие. Другой тип такого оружия, ионная пушка, использовалось для ведения огня сгустком заряженных частиц либо плазмой. На шагоходах AT-TE были установлены длинные тяжёлый реактивные пушки.]]></text>
+</doc>

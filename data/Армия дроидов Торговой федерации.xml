@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%90%D1%80%D0%BC%D0%B8%D1%8F_%D0%B4%D1%80%D0%BE%D0%B8%D0%B4%D0%BE%D0%B2_%D0%A2%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9_%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Армия дроидов Торговой федерации]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о компании или корпорации]]></item>
+    <item type="str"><![CDATA[Боевые подразделения]]></item>
+    <item type="str"><![CDATA[Торговая федерация]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Армия дроидов Торговой федерации (англ. Trade Federation Droid Army), также известная просто как армия Федерации (англ. Federation Army), — частные автоматизированные силы обороны Торговой Федерации, созданные для обороны ценных грузов от пиратов. Однако Федерация использовала её для вторжения на планету Набу, а позже, в период Сепаратистского кризиса, она вошла в состав Сепаратистской армии дроидов.]]></text>
+</doc>

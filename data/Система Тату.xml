@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%A2%D0%B0%D1%82%D1%83/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Система Тату]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Неполный список]]></item>
+    <item type="str"><![CDATA[Системы с двойными звёздами]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Система Тату (англ. Tatoo system) — двойная солнечная система, расположенная в секторе Арканис, во Внешнем Кольце. Первой планетой системы был Татуин - суровый, пустынный мир.]]></text>
+</doc>

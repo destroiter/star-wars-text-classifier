@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F_%D0%94%D0%B6%D0%B0%D0%B1%D0%B1%D1%8B_%D0%94%D0%B5%D1%81%D0%B8%D0%BB%D0%B8%D0%B4%D0%B6%D0%B8%D0%BA%D0%B0_%D0%A2%D0%B8%D1%83%D1%80%D0%B5]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Криминальная империя Джаббы Десилиджика Тиуре]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Криминальные организации]]></item>
+    <item type="str"><![CDATA[Планетарные государства]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Криминальная империя Джаббы Десилиджика Тиуре - одна из самых могущественных преступных организаций в галактике во времена Войн клонов и Галактической гражданской войны.
+Появление:
+Звёздные войны. Эпизод I: Скрытая угроза
+Star Wars Episode I: The Phantom Menace game
+Star Wars Episode I: The Phantom Menace junior novel
+LEGO Star Wars: The Complete Saga(неканонический вариант)
+Star Wars: Battlefront II (неканонический вариант)
+«Звёздные войны: Войны клонов» — «Сфера влияния»
+«Звёздные войны: Войны клонов» — «Охота на Зиро»
+The Hutt Gambit
+Star Wars Episode IV: A New Hope (первое появление)
+Star Wars Episode IV: A New Hope junior novel
+LEGO Star Wars II: The Original Trilogy (неканонический вариант)
+Star Wars: Rogue Squadron III: Rebel Strike
+Star Wars Missions 10: Showdown in Mos Eisley
+Star Wars Missions 11: Bounty Hunters vs. Battle Droids
+Star Wars: Empire at War: Forces of Corruption
+ Star Wars Galaxies: An Empire Divided
+Tales from Jabba's Palace
+Shadows of the Empire novel
+ «Just Another Day's Work»—Shadows of the Empire Sourcebook
+Star Wars Episode VI: Return of the Jedi
+Star Wars Episode VI: Return of the Jedi junior novel
+Outcast (только упоминание)]]></text>
+</doc>

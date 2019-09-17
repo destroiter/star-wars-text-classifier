@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%92%D1%83%D0%BF%D0%B8%D1%83%D0%BF%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Вупиупи]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки]]></item>
+    <item type="str"><![CDATA[Культура хаттов]]></item>
+    <item type="str"><![CDATA[Валюта]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Вупиупи (др. вариант перевода — вупиупия) (англ. Wupiupi) — хаттская разменная монета, ходившая на территориях Внешнего Кольца Галактики до имперского периода. Шестнадцать вупиупий равнялись одному тругуту, который, в свою очередь, являлся четвертью пеггата.
+Курс вупиупии колебался около 0,625 галактического стандартного кредита. Тем не менее, жители Внешнего Кольца не доверяли кредитам вплоть до Галактической Империи и предпочитали другие виды валют.
+Грагра, торговка с рынка в Мос Эспа, около 32 ДБЯ продавала своих горгов по семь вупиупий за тушку.]]></text>
+</doc>

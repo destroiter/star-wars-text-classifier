@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/18_%D0%B8%D1%8E%D0%BB%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[18 июля]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Июль]]></item>
+    <item type="str"><![CDATA[18 июля]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[18 июля — 199-й день года (200-й в високосные годы) в григорианском календаре. До конца года остаётся 166 дней.
+1972 — родился Слим Хезри
+1994 — опубликован TIE Fighter: The Official Strategy Guide.
+2007 — выход комикса Империя 8: Дарклайтер, часть 1 на русском языке.
+2007 — выход комикса Империя 9: Дарклайтер, часть 2 на русском языке.
+2007 — выход комикса Империя 12: Дарклайтер, часть 3 на русском языке.
+2007 — выход комикса Империя 15: Дарклайтер, часть 4 на русском языке.
+2007 – публикация комикса Star Wars: Dark Times 4: The Path to Nowhere, Part 4.
+2011 – публикация Lost Tribe of the Sith: Pantheon
+2012 – публикация комикса Star Wars: Darth Vader and the Ghost Prison 3]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/19_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[19 ноября]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Ноябрь]]></item>
+    <item type="str"><![CDATA[19 ноября]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[19 ноября — 323-й день года (324-й в високосные годы) в григорианском календаре. До конца года остаётся 42 дня.
+2003 — выпущена компьютерная игра Рыцари Старой Республики (платформа PC)
+2008 – публикация комикса Star Wars: Knights of the Old Republic 35: Vindication, Part 4.
+2010 – вышел в эфир эпизод «Heroes on Both Sides»]]></text>
+</doc>

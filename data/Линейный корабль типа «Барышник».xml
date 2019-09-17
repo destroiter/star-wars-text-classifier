@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C_%D1%82%D0%B8%D0%BF%D0%B0_%C2%AB%D0%91%D0%B0%D1%80%D1%8B%D1%88%D0%BD%D0%B8%D0%BA%C2%BB/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Линейный корабль типа «Барышник»]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Статьи с утверждениями без источников]]></item>
+    <item type="str"><![CDATA[Заготовки о транспортных средствах]]></item>
+    <item type="str"><![CDATA[Типы звездолётов КНС]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Линейный корабль типа «Барышник» (англ. Lucrehulk-class Battleship), также известный как Корабль управления дроидами типа «Барышник» (англ. Lucrehulk-class Droid Control Ship) или боевой корабль Торговой федерации (англ. Trade Federation battleship) — модифицированный грузовой корабль LH-3210 типа «Барышник», использовавшийся Торговой федерацией и Федерация независимых систем.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B8%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BF%D1%80%D0%B8%D0%BA%D0%B2%D0%B5%D0%BB%D0%BE%D0%B2]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Трилогия приквелов]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Трилогии]]></item>
+    <item type="str"><![CDATA[Кинофильмы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Трилогия приквелов — три кинофильма «Звездных войн», вышедшие на экраны с 1999 по 2005 год. Это «Звёздные войны. Эпизод I: Призрачная угроза», «Звёздные войны. Эпизод II: Атака клонов» и «Звёздные войны. Эпизод III: Месть ситхов».
+Эта трилогия повествует об истории галактики до событий Оригинальной трилогии.]]></text>
+</doc>

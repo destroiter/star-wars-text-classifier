@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D1%80/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Топор]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Топоры]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Топор (англ. ax) — оружие ближнего боя, которое состояло из тяжёлой головы, прикреплённой к рукояти. Некоторые топоры имели два лезвия. Несмотря на то, что топоры были устрашающим оружием сами по себе, их смертоносность могла быть значительно увеличена, добавлением генератора вибрации, и таким образом получалось оружие, известное как вибросекира.]]></text>
+</doc>

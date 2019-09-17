@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%98%D0%BA%D0%BE%D0%BF%D0%B8/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Икопи]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Животные по алфавиту]]></item>
+    <item type="str"><![CDATA[Животные Набу]]></item>
+    <item type="str"><![CDATA[Травоядные]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Икопи (англ. Ikopi) — вид неразумных травоядных животных, проживавших на Набу и некоторых других планетах галактики. У них была золотистая шерсть, большие уши и четыре сдвоенных рожка на голове. У них были длинные полые языки в два-три раза больше, чем длина головы, которыми они доставали нектар или воду.]]></text>
+</doc>

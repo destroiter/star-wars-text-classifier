@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/1977_%D0%B3%D0%BE%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[1977 год]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о датах и периодах]]></item>
+    <item type="str"><![CDATA[Годы (реальный мир)]]></item>
+    <item type="str"><![CDATA[1977 год]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Список событий 1977 года, связанных со вселенной «Звёздных войн».
+События
+25 мая — премьера фильма «Эпизод IV: Новая надежда»
+1 июля — родился Стив Аргайл.
+6 июля — родился Брадфорд Янг.
+20 октября — родился Сэм Уитвер.
+21 октября — родилась Делайла Доусон.
+22 ноября — родился Торстейн Нордстранд.]]></text>
+</doc>

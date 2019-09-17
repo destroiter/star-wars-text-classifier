@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9D%D1%8C%D0%BE%D1%80%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Ньорк]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Животные по алфавиту]]></item>
+    <item type="str"><![CDATA[Животные Набу]]></item>
+    <item type="str"><![CDATA[Животная пища]]></item>
+    <item type="str"><![CDATA[Неразумные моллюски]]></item>
+    <item type="str"><![CDATA[Хищники]]></item>
+    <item type="str"><![CDATA[Водные животные]]></item>
+    <item type="str"><![CDATA[Животные болот]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Ньорк (англ. Nyork) — хищный двустворчатый моллюск с твёрдой раковиной, обитавший в водоёмах Набу. Внутри створок имелась пасть на стебельке, которыми ньорки хватали всё, что казалось им съедобным. В погоне за добычей эти моллюски могли даже выпрыгивать из воды. Сами ньорки служили пищей для многих видов животных, к примеру, отт и блартов. Бларты ловили ньорков, приманивая их хвостом; отты умели раскалывать раковины моллюсков камнями. Гунганы также любили мясо ньорка; обычно его поедали, завернув в листья нейва. Джа-Джа Бинкс питался ньорками, когда жил на болотах Набу во время своего изгнания.]]></text>
+</doc>

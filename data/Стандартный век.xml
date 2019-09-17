@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D0%BA/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Стандартный век]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Неполный список]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Стандартный век (англ. standard century), также известный как просто век или столетие - единица измерения времени. Век насчитывал сто стандартных лет или десять десятилетий. Десять веков, в свою очередь, равнялись тысячелетию.]]></text>
+</doc>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/R5-X2]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[R5-X2]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Продукция «Промышленных автоматов»]]></item>
+    <item type="str"><![CDATA[Запрограммированные как мужчины]]></item>
+    <item type="str"><![CDATA[Дроиды-астромеханики серии R5]]></item>
+    <item type="str"><![CDATA[Жители Татуина]]></item>
+    <item type="str"><![CDATA[Слуги Джаббы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[R5-X2 был дроидом-астромехаником серии R5. Он принадлежал Джаббе Хатту и использовался для решения разногласий в гонках Бунта Ив Классик.
+Биография
+R5-X2 считал, что Себульба прийдёт первым, Гасгано - вторым, а Мохоник - третьим. Но он ошибся; Энакин Скайуокер пришёл первым, а Джабба Хатт потерял деньги.]]></text>
+</doc>

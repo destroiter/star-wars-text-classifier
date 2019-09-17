@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/G8-R3]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[G8-R3]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Дроиды-астромеханики]]></item>
+    <item type="str"><![CDATA[Дезактивированные в 32 ДБЯ]]></item>
+    <item type="str"><![CDATA[Продукция «Промышленных автоматов»]]></item>
+    <item type="str"><![CDATA[Дроиды-астромеханики серии R5]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[G8-R3 — дроид-астромеханик с жёлтой окраской корпуса. Был уничтожен выстрелом одного из кораблей Торговой федерации, когда пытался починить гипердвигатель на корабле королевы Амидалы.
+За кулисами
+В разделе Star Wars Q&A журнала Star Wars Insider 58 Пабло Идальго предположил, что номера дроидов обычно приводились в сокращённом виде. Он показал это на примере G8-R3, чей полный номер мог бы выглядеть как "R5-X41238-G8-R3-3124-D2".]]></text>
+</doc>

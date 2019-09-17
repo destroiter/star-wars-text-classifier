@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/Celebration_Chicago]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Celebration Chicago]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Официальные мероприятия Звёздных войн]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Star Wars Celebration Chicago — мероприятие, тринадцатый Celebration, который проходил с 11 по 15 апреля 2019 года в Чикаго. Его ведущим был Уорик Дэвис.]]></text>
+</doc>

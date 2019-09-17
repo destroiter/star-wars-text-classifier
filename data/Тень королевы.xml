@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A2%D0%B5%D0%BD%D1%8C_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%8B]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Тень королевы]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки об источниках информации]]></item>
+    <item type="str"><![CDATA[Каноничные романы]]></item>
+    <item type="str"><![CDATA[Романы 2019 года]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[«Тень королевы» (англ. Queen’s Shadow) — подростковый роман Эмили Кейт Джонстон, который вышел 5 марта 2019 года. Сюжетная линия разворачивается вокруг Падме Амидалы и рассказывает о том,как она стала сенатором от Набу, оставив пост королевы.]]></text>
+</doc>

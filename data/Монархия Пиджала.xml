@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D1%8F_%D0%9F%D0%B8%D0%B4%D0%B6%D0%B0%D0%BB%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Монархия Пиджала]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Статьи с крупными спойлерами]]></item>
+    <item type="str"><![CDATA[Заготовки]]></item>
+    <item type="str"><![CDATA[Правительства]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Монархия Пиджала (англ. Pijali monarchy) — правительство, возглавлявшееся королевой Фанри после её коронации. Королева Фанри предприняла попытку выдворить корпорацию, однако потерпела неудачу, когда её собственные люди восстали против неё. Фанри отреклась от престола в пользу своей двоюродной сестры, Ламии, упразднившей монархию и создавшей вместо неё Ассамблею Пиджала, возглавлявшуюся губернатором Орфом, бывшим министром Фанри.]]></text>
+</doc>

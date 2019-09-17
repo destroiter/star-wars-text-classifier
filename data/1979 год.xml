@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/1979_%D0%B3%D0%BE%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[1979 год]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о датах и периодах]]></item>
+    <item type="str"><![CDATA[Годы (реальный мир)]]></item>
+    <item type="str"><![CDATA[1979 год]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Список событий 1979 года, связанных со вселенной «Звёздных войн».
+Апрель
+9 — родился Брэндон Бадо.
+12 — выпуск книги «Хан Соло в Звёздном тупике», написанной Дэйли Брайаном.
+24 — родился Basilews.
+Июнь
+25 — родился Нейтан Хэмилл.
+25 — родился Леонид Козиенко.
+Июль
+24 — родилась Роуз Бирн.
+Сентябрь
+30 — родился Джон Кэздан.
+Октябрь
+12 — выпуск книги «Реванш Хана Соло», написанной Дэйли Брайаном.]]></text>
+</doc>

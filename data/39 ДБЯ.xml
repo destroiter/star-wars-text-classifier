@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/39_%D0%94%D0%91%D0%AF/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[39 ДБЯ]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Годы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Следующие события имели место за 39 лет до битвы при Явине, в 3238-м году по Лотальскому календарю.
+События
+Падме Амидала помогает переселить всё население планеты Шадда-Би-Боран. Позже вся популяция погибнет из-за невозможности повторить условия окружающей среды Шадда-Би-Боран в своём новом месте проживания.]]></text>
+</doc>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/EG-9]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[EG-9]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Дроиды-рабочие]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Члены Торговой федерации]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[EG-9 — дроид, работавший на станции Торговой федерации во время осады Набу в 32 ДБЯ. Он и PK-4 не любили дроидов выше их по классу.
+За кулисами
+EG-9 вместе с PK-4 были удалены из окончательного варианта фильма. Тем не менее, они были в сценарии и их разговор был включен в новеллизацию фильма Терри Брукса.]]></text>
+</doc>

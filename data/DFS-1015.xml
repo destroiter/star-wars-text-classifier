@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/DFS-1015]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[DFS-1015]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки о транспортных средствах]]></item>
+    <item type="str"><![CDATA[DFS-серия]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Дезактивированные в 32 ДБЯ]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[DFS-1015 — дроид-стервятник из эскадрильи истребителей DFS, находившийся на борту «Саак'ака» во время блокады Набу.]]></text>
+</doc>

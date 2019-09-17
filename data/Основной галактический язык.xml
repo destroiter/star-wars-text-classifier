@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B3%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Основной галактический язык]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о языках]]></item>
+    <item type="str"><![CDATA[Неполный список]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Основной язык — наиболее распространённый язык в Галактике. Чаще всего его использовали люди. На нём также разговаривали панторанцы, тви'леки, тогруты, мириалане, иктотчи, наутоланы и другие. Гунганы разговаривали с сильным акцентом, а также отличались в грамматике и лексике. Телзы и эвоки не владели основным.]]></text>
+</doc>

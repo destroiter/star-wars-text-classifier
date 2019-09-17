@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A0%D1%8B%D0%B1%D0%B0/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Рыба]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о животных]]></item>
+    <item type="str"><![CDATA[Биологическая классификация]]></item>
+    <item type="str"><![CDATA[Рыбы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Рыбы (англ. fish) — водные существа, распространённые по всей галактике. К ним относились такие виды как рыба-бурра с Датомира и чешуйчатые рыбы с Набу.
+Известные виды рыб]]></text>
+</doc>

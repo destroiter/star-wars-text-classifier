@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A5%D0%BE%D1%80%D0%BE%D0%BA%D1%81_%D0%A0%D0%B8%D0%B8%D0%B4%D0%B5%D1%80/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Хорокс Риидер]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Анксы]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Сенаторы Галактической Республики]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Хорокс Риидер (англ. Horox Ryyder) — мужчина-анкс, представлявший свою родину в Сенате Галактической Республики к моменту вторжения на Набу. Он продолжал быть сенатором во время битвы при Корусанте в 19 ДБЯ, к тому моменту занимая этот пост уже пятьдесят лет. Он был известен за терпение и понимание, и его спокойное и успокаивающее поведение позволило ему заработать много союзников.]]></text>
+</doc>

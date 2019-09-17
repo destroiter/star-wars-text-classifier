@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Имперская площадь]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Неполный список]]></item>
+    <item type="str"><![CDATA[Памятники Корусанта]]></item>
+    <item type="str"><![CDATA[Общественные территории Корусанта]]></item>
+    <item type="str"><![CDATA[Площади]]></item>
+    <item type="str"><![CDATA[Локации Здания Сената]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Имперская площадь (англ. Imperial Plaza) была большим открытым пространством, окружавшим здание Сената в федеральном округе Корусанта. До самопровозглашения Верховного Канцлера Республики Шива Палпатина правителем Галактической Империи, площадь называлась сенатской (англ. Senate Plaza). Через пять лет после основания Империи на Имперской площади планировалось создать огромные статуи Императора.]]></text>
+</doc>

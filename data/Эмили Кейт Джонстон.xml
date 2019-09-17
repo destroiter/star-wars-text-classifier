@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%AD%D0%BC%D0%B8%D0%BB%D0%B8_%D0%9A%D0%B5%D0%B9%D1%82_%D0%94%D0%B6%D0%BE%D0%BD%D1%81%D1%82%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Эмили Кейт Джонстон]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о персоналиях из реального мира]]></item>
+    <item type="str"><![CDATA[Писатели]]></item>
+    <item type="str"><![CDATA[Авторы рассказов]]></item>
+    <item type="str"><![CDATA[Родившиеся в 1984 году]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Эмили Кейт Джонстон (англ. E. K. Johnston) — англоязычная писательница, автор подростковых романов «Асока», выпущенного 11 октября 2016 года, и «Тень королевы», который вышел в 2019 году.]]></text>
+</doc>

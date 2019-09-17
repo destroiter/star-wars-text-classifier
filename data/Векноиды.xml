@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%92%D0%B5%D0%BA%D0%BD%D0%BE%D0%B8%D0%B4%D1%8B]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Векноиды]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Векноиды]]></item>
+    <item type="str"><![CDATA[Расы (В)]]></item>
+    <item type="str"><![CDATA[Разумные млекопитающие]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Векноиды (англ. Veknoid), также известные как велкоиды — раса с планеты Мунус Мандел. Известный пилот пода Тимто Палаглис был векноидом, как и мастер-джедай Зао.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4_%D0%9C%D0%B0%D0%BA%D0%BA%D0%B0%D0%BB%D0%BB%D1%83%D0%BC]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Ричард Маккаллум]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о персоналиях из реального мира]]></item>
+    <item type="str"><![CDATA[Продюсеры]]></item>
+    <item type="str"><![CDATA[Родившиеся в 1954 году]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Ричард Маккаллум (англ. Rick McCallum) (родился 22 августа 1954 года в Гейдельберге, Германия) — продюсер, самыми знаменитыми работами которого стали трилогия приквелов и специальная редакция «Звёздных войн».]]></text>
+</doc>

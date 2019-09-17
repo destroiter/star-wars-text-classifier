@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9C%D0%BB%D0%B0%D0%B4%D1%88%D0%B8%D0%B9_%D0%B4%D0%B6%D0%B5%D0%B4%D0%B0%D0%B9/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Младший джедай]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о титулах, званиях или специальностях]]></item>
+    <item type="str"><![CDATA[Ранги джедаев]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Младшим джедаем или джедаем-юнлингом был чувствительный к Силе ребёнок, который проходил ранние стадии обучения в Ордене джедаев. Он должен был полететь на Илум, чтобы найти свой кристалл для светового меча и собрать личное оружие.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A1%D0%BB%D0%B5%D0%B4%D1%8F%D1%89%D0%B5%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Следящее устройство]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о технологиях]]></item>
+    <item type="str"><![CDATA[Следящие устройства]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Маячок слежения (англ. Homing beacon), также известный просто как следящее устройство (англ. tracking device) — устройство, предназначавшееся для слежения за звёздными кораблями и другими транспортными средствами. «Раб I» и TIE Усовершенствованный v1 могли выстреливать следящими устройствами по вражеским кораблям и следить за ними.]]></text>
+</doc>

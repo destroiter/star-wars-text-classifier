@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%90%D0%B3%D1%80%D0%B8%D0%BF%D0%BF%D0%B0_%D0%90%D0%BB%D0%B4%D1%80%D0%B5%D1%82%D0%B5]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Агриппа Алдрете]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Сенаторы Галактической Республики]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Агриппа Алдрете — сенатор, представлявший сектор Альдераан в Сенате Галактической Республики.
+Биография
+Агриппа Алдрете служил на посту сенатора, который представлял сектор Альдераан в Сенате Галактической Республики до вторжения на Набу в 32 ДБЯ. В течение этого времени для него был построен корабль «Звезда Альдераана» (позже переименованный в «Тантив IV») по приказу королевы Мазиции Органы.
+Во время вторжения на Набу в 32 ДБЯ Агриппа служил в качестве помощника вместе с Лианой Мериан у сенатора Бейла Антиллеса.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A5%D0%B0%D1%80%D1%87%D0%B5%D0%B2%D0%BD%D1%8F_%D0%90%D0%BA%D0%B8%D0%BC%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Харчевня Акима]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Локации Татуина]]></item>
+    <item type="str"><![CDATA[Локации Мос-Эспа]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Харчевня Акима (англ. Akim's Munch) была уличным кафе, расположенным в Мос Эспа на Татуине. Если бы Себульба выиграл Бунта Ив Классик, то отпраздновал бы победу именно здесь. Квинлан Вос сидел в харчевне в 32 ДБЯ, когда Джа-Джа Бинкс подвергся нападению Себульбы и впоследствии был спасён Энакином Скайуокером.]]></text>
+</doc>

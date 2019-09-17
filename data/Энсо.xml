@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%AD%D0%BD%D1%81%D0%BE]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Энсо]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки о расах]]></item>
+    <item type="str"><![CDATA[Люди и близкие к людям расы]]></item>
+    <item type="str"><![CDATA[Расы (Э)]]></item>
+    <item type="str"><![CDATA[Энсо]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Энсо (англ. Enso) — близкая к людям раса с планеты Энсолика.]]></text>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%99%D0%B0%D0%B4%D0%B5_%D0%9C%27%D1%80%D0%B0%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Йаде М'рак]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки о персонажах]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Кореллианцы]]></item>
+    <item type="str"><![CDATA[Игроки]]></item>
+    <item type="str"><![CDATA[Контрабандисты]]></item>
+    <item type="str"><![CDATA[Жители Татуина]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Йаде М'рак — кореллианский контрабандист и игрок в азартные игры. Он проиграл практически все, что ему принадлежало, Гардулле Старшей. Именно из-за этого Йаде оказался привязан к Татуину. Его родной планетой была Кореллия. Несмотря на большие долги, ему удавалось провозить оружие контрабандой на черный рынок.]]></text>
+</doc>

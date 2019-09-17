@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%94%D0%B2%D0%BE%D1%80%D1%86%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%B6%D0%B0_(%D0%9D%D0%B0%D0%B1%D1%83)/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Дворцовая стража (Набу)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Правоохранительные органы]]></item>
+    <item type="str"><![CDATA[Боевые подразделения]]></item>
+    <item type="str"><![CDATA[Организации Набу]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Дворцовая стража (англ. Palace Guard), также известная как Королевская дворцовая стража (англ. Royal Palace Guard) — одно из трёх подразделений Королевских сил безопасности Набу. Члены этого отряда обеспечивали безопасность монарху Набу и территорию Королевского дворца Тида. Помимо этого, они были частью повседневной охраны важных персон, как сенатора от Набу и сектора Чоммелль Падме Амидалы. Охрану Амидалы возглавлял Грегар Тайфо.]]></text>
+</doc>

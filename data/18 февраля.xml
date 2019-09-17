@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/18_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[18 февраля]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Февраль]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[18 февраля — 49-й день года в григорианском календаре. До конца года остаётся 316 дня (317 дней — в високосные годы).
+1949 — родился Пат Фрели.
+1975 — родился Симон Эмануэль.
+1992 — выход комикса «Тёмная империя, часть 2: Опустошитель миров»
+1998 — выход комикса «Crimson Empire 3».
+2004 — выход комикса «Звёздные войны. Республика 61: Безысходность».
+2008 — выход справочника «Epic Battles».
+2008 — выход книги Star Wars: The Story of Darth Vader.
+2009 — выход комикса «Knights of the Old Republic 38: Faithful Execution».
+2011 — премьера эпизода «Цитадель».
+2014 — умер Малкольм Тирни.
+2017 — премьера эпизода «Наследие Мандалора».]]></text>
+</doc>

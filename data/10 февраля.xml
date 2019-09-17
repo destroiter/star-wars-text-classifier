@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/10_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[10 февраля]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Февраль]]></item>
+    <item type="str"><![CDATA[10 февраля]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[10 февраля — 41-й день года в григорианском календаре. До конца года остаётся 324 дня (325 дней — в високосные годы).
+1962 — родился Дарио Карраско-младший.
+1999 — публикация комикса «Алая Империя II: Кровавый совет, часть 4».
+2010 — публикация комикса «Затерянное племя ситхов: Парагон».
+2010 — публикация сборника комиксов «Звёздные войны. Наследие Том 8: Татуин».
+2012 — вышел в эфир эпизод «Кризис на Набу».]]></text>
+</doc>

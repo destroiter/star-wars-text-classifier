@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9A%D0%B8%D1%80%D0%B0%D0%BC%D0%B5%D1%81_%D0%9A%D0%B0%D0%B4%D0%B6]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Кирамес Кадж]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Статьи с крупными спойлерами]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Персоналии по алфавиту]]></item>
+    <item type="str"><![CDATA[Верховные Канцлеры]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Тогруты]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Кирамес Кадж (англ. Kirames Kaj) — женщина, тогрута, политик, занимавшая должность Верховного Канцлера Галактической Республики в 39 ДБЯ. Кадж была единственной, кто знал о предложении Совета джедаев Квай-Гону Джинну занять место собиравшегося покинуть Совет мастера-джедая Поли Дапатиана.]]></text>
+</doc>

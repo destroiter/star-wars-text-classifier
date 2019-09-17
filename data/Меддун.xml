@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9C%D0%B5%D0%B4%D0%B4%D1%83%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Меддун]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Заготовки о персонажах]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Наёмники]]></item>
+    <item type="str"><![CDATA[Каджайн'са'никто]]></item>
+    <item type="str"><![CDATA[Жители Татуина]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Меддун (англ. Meddun) — представитель расы никто, наёмник в Мос-Эспа на Татуине в 32 ДБЯ.]]></text>
+</doc>

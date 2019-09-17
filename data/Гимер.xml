@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%93%D0%B8%D0%BC%D0%B5%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Гимер]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки о растениях]]></item>
+    <item type="str"><![CDATA[Лекарства и медикаменты]]></item>
+    <item type="str"><![CDATA[Фрукты и овощи]]></item>
+    <item type="str"><![CDATA[Мало иллюстраций]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Гимер был растением средней высоты лесов Кашиика. Гимер имел питательные компоненты, поэтому вуки употребляли это растение в пищу.]]></text>
+</doc>

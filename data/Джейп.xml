@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%94%D0%B6%D0%B5%D0%B9%D0%BF]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Джейп]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Статьи с крупными спойлерами]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Персонажи неизвестной расы]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Джейп (англ. Jape) — мужчина, джедай-падаван, друживший с Оби-Ваном Кеноби. Учитель Джейпа был специалистом в астрофизике и часто вместе с учеником путешествовал по всей галактике, наблюдая за поведением туманностей и чёрных дыр. Джейп нередко бывал в Великой орбитальной обсерватории Корусанта.]]></text>
+</doc>

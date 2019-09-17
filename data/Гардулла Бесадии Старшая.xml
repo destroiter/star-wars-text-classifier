@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%93%D0%B0%D1%80%D0%B4%D1%83%D0%BB%D0%BB%D0%B0_%D0%91%D0%B5%D1%81%D0%B0%D0%B4%D0%B8%D0%B8_%D0%A1%D1%82%D0%B0%D1%80%D1%88%D0%B0%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Гардулла Бесадии Старшая]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Заготовки о персонажах]]></item>
+    <item type="str"><![CDATA[Хатты из клана Бесадии]]></item>
+    <item type="str"><![CDATA[Работорговцы]]></item>
+    <item type="str"><![CDATA[Жители Нал-Хатты]]></item>
+    <item type="str"><![CDATA[Жители Татуина]]></item>
+    <item type="str"><![CDATA[Хатты]]></item>
+    <item type="str"><![CDATA[Бэндо Гора]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Гардулла Бесадии Старшая (англ. Gardulla Besadii the Elder, также известная, как Гардулла Хатт, англ. Gardulla the Hutt) — хатт, гермафродит с женской личностью, которая была влиятельным криминальным лордом на Татуине. В какой-то момент жизни она владела рабами Шми Скайуокер и её сыном Энакином, которых проиграла тойдарианцу Уотто, во время крупной ставки. Чрезмерное увлечение азартными играми и ставками на гонщиков постоянно портили ей жизнь проигрышами и неудачами. Также Гардулла была матерью Гардуллы Бесадии Младшего и Декки Бесадии Диори.]]></text>
+</doc>

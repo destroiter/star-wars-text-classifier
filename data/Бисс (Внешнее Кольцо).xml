@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%91%D0%B8%D1%81%D1%81_(%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B5%D0%B5_%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE)/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Бисс (Внешнее Кольцо)]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Планеты по алфавиту]]></item>
+    <item type="str"><![CDATA[Планеты Внешнего Кольца]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Бисс (англ. Byss) — планета, находившаяся во Внешнем кольце галактики, родной мир абиссинов.
+Источники
+Звёздные войны: Полный путеводитель по мирам (первое упоминание)]]></text>
+</doc>

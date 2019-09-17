@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%94%D1%80%D0%BE%D0%B8%D0%B4-%D0%B8%D1%81%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Дроид-истребитель]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о дроидах]]></item>
+    <item type="str"><![CDATA[Типы дроидов-истребителей]]></item>
+    <item type="str"><![CDATA[Дроиды-истребители]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Дроид-истребитель — тип автоматических истребителей, которые сами были дроидами, вместо того, чтобы управляться живым пилотом или даже дроидом. Они очень широко использовались до и во время Войн клонов, имея большое преимущество в том, что если судно уничтожалось, никто при этом не терял жизнь. Существовало несколько типов дроидов-истребителей: бомбардировщик типа «Гиена», боевой дроид-истребитель с изменяемой геометрией и три-дроид истребитель.]]></text>
+</doc>

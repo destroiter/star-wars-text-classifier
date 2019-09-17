@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%93%D1%80%D0%B8%D0%B4%D0%BE_%D0%A1%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Гридо Старший]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Родианцы]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Охотники за головами]]></item>
+    <item type="str"><![CDATA[Жители Татуина]]></item>
+    <item type="str"><![CDATA[Умершие в 17 ДБЯ]]></item>
+    <item type="str"><![CDATA[Умершие на Родии]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Гридо Старший (англ. Greedo the Elder) — родианец, член клана Тетсу. Позже он стал известным охотником за головами, отцом двух детей и лидером своего клана. В 17 ДБЯ был убит конкурентом Навиком Красным.
+Биография
+Гридо жил на Родии, где стал успешным охотником за головами и женился на Ниле. Вскоре у пары появилось двое детей. Вскоре после этого он был убит во время чистки Навиком Красным.
+После этого беременная жена Гридо бежала с Родии вместе с сыном, которого она назвала в честь отца. Сын Гридо стремился во всем подражать своему отцу, утверждая, что однажды получит награду за голову Хана Соло, однако позднее его постигла судьба отца.]]></text>
+</doc>

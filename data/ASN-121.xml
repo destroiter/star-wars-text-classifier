@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/ASN-121/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[ASN-121]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о дроидах]]></item>
+    <item type="str"><![CDATA[Дроиды-курьеры ASN]]></item>
+    <item type="str"><![CDATA[Дроиды-убийцы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[ASN-121 — модифицированный дроид-курьер ASN использовавшийся клоудиткой-охотницей за головами Зам Уэселл в качестве дроида-убийцы. 22 ДБЯ она при помощи этого дроида доставила двух ядовитых куханов в спальню сенатора Падме Амидалы, располагавшуюся в её апартаментах на Корусанте.]]></text>
+</doc>

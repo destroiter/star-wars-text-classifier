@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%94%D0%B8%D0%BA%D0%BE%D0%B5_%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Дикое Пространство]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о космосе]]></item>
+    <item type="str"><![CDATA[Регионы Галактики]]></item>
+    <item type="str"><![CDATA[Дикое Пространство]]></item>
+    <item type="str"><![CDATA[Планеты Дикого Пространства]]></item>
+    <item type="str"><![CDATA[Системы Дикого Пространства]]></item>
+    <item type="str"><![CDATA[Сектора Дикого Пространства]]></item>
+    <item type="str"><![CDATA[Спутники планет Дикого Пространства]]></item>
+    <item type="str"><![CDATA[Звёзды Дикого Пространства]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Дикое Пространство - название обширного скопления звёздных систем на самом краю галактического диска. В Диком Пространстве находились таинственная планета Мортис, а также планеты Тет, Индумодо, Туне и Лира-Сан, изначальная родина расы ласатов.
+Сектора Дикого Пространства
+Сектор Баксел
+Системы Дикого Пространства
+Система Тет
+Планеты Дикого Пространства
+Адумар
+Валк
+Индумодо
+Кали
+Клитус-V
+Комра
+Ксирл
+Лира-Сан
+Мир Графов
+Нирауан
+Редут
+Тет
+Туне
+Эйтен
+Эсфандия]]></text>
+</doc>

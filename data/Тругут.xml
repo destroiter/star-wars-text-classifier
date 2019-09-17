@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A2%D1%80%D1%83%D0%B3%D1%83%D1%82]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Тругут]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Валюта]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Тругут (англ. Trugut) — хаттская валюта, имевшая хождение на территориях Внешнего Кольца, особенно в мирах, контролируемых хаттами. Один тругут равнялся 16 вупиупи, а четыре тругута были равны одному пеггату.
+По отношению к галактическому стандартному кредиту курс тругута в последние десятилетия существования Галактической Республики составлял около десяти кредитов.]]></text>
+</doc>

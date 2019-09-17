@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%AD%D0%B9%D0%BD%D0%BB%D0%B8_%D0%A2%D0%B8%D0%BC/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Эйнли Тим]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Сенаторы Галактической Республики]]></item>
+    <item type="str"><![CDATA[Граны]]></item>
+    <item type="str"><![CDATA[Персонажи неизвестного пола]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Эйнли Тим (англ. Ainlee Teem) — гран, сенатор, представлявший планету Маластар в Галактическом Сенате в последнее десятилетие существования Галактической Республики. Во время вторжения на планету Набу сил Торговой федерации, тогдашнему Верховный Канцлер Финис Валорум был объявлен вотум недоверия. Вместе с Бейлом Антиллесом с Альдераана и Шивом Палпатином с Набу, Тим выдвигался на пост Валорума. в качестве потенциального приемника. Однако, в конечном итоге на этот пост был выбран Палпатин.]]></text>
+</doc>

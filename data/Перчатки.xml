@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9F%D0%B5%D1%80%D1%87%D0%B0%D1%82%D0%BA%D0%B8/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Перчатки]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Перчатки (англ. Gloves) — предмет одежды, носившийся на руках. Их в основном использовали для защиты рук, особенно от погоды. Встречались специализированные типы перчаток, к примеру — магна-перчатки, в которые были вмонтированы магниты, с помощью которых можно было притягиваться к металлическим поверхностям.]]></text>
+</doc>

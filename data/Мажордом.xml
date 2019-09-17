@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9C%D0%B0%D0%B6%D0%BE%D1%80%D0%B4%D0%BE%D0%BC/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Мажордом]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки о персонажах]]></item>
+    <item type="str"><![CDATA[Титулы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Мажордом или дворецкий (англ. majordomo) — служащий, занимающий должность главного распорядителя при дворе состоятельной персоны, в частности, при королевском дворе. Таррик был мажордомом дома Органа примерно в 3 ДБЯ. Тви'лек Биб Фортуна служил мажордомом у Джаббы Хатта во время Галактической гражданской войны. Пайк Файф был мажордомом лидера синдиката пайков Марга Крима во время Войн клонов.]]></text>
+</doc>

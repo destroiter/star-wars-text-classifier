@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/P-59]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[P-59]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Дройдеки]]></item>
+    <item type="str"><![CDATA[Члены Торговой федерации]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[P-59 и его подчинённый P-60 были двумя дройдеками, посланными вице-королём Торговой федерации Нутом Ганреем, чтобы помешать двум джедаям, Оби-Вану Кеноби и Квай-Гону Джинну, прорваться на мостик «Саак'ака». Огонь дройдек вынудил джедаев скрыться в вентиляционной шахте.
+За кулисами
+В книге Star Wars Episode I: I Am a Droid утверждается, что P-59 — это тип дроида-разрушителя, а не номер отдельной дройдеки.]]></text>
+</doc>

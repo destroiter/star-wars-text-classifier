@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B8%D1%81%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_N-1/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Звёздный истребитель N-1]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о транспортных средствах]]></item>
+    <item type="str"><![CDATA[Типы звёздных истребителей]]></item>
+    <item type="str"><![CDATA[Культура Набу]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Звёздный истребитель N-1 (англ. N-1 starfighter), также известный как Набуанский звёздный истребитель (англ. Naboo starfighter) — одноместное патрульное транспортное средство, разработанное машиностроительной корпорацией космического транспорта дворца Тида и использовавшееся королевскими силами безопасности Набу для различных задач, таких как: оборона, патрулирование и сопровождение.]]></text>
+</doc>

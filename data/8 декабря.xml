@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/8_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[8 декабря]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Декабрь]]></item>
+    <item type="str"><![CDATA[8 декабря]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[8 декабря — 342-й день года (343-й в високосные годы) в григорианском календаре. До конца года остаётся 23 дня.
+1926 — родился Тед Бернетт.
+1950 — родился Рик Бэйкер.
+1960 — родился Аарон Оллстон.
+1994 — публикация книги Хрустальная звезда.
+1999 — выход комикса Звёздные войны: Союз, часть 2.
+2009 — публикация книги Династия зла.
+2010 — выход комикса Странствующий рыцарь: Объятые пламенем, часть 3.]]></text>
+</doc>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/1994_%D0%B3%D0%BE%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[1994 год]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Годы (реальный мир)]]></item>
+    <item type="str"><![CDATA[1994 год]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Список событий 1994 года, связанных со вселенной «Звёздных войн».
+События
+Апрель
+9 — выход комикса Classic Star Wars: The Early Adventures 1.
+Сентябрь
+1 — выход комикса Classic Star Wars: The Early Adventures 2.
+Октябрь
+1 — выход комикса Classic Star Wars: The Early Adventures 3.
+Ноябрь
+1 — выход комикса Classic Star Wars: The Early Adventures 4.
+7 — публикация книги Rebel Assault: Официальное руководство создателей.
+Декабрь
+13 — выход комикса Classic Star Wars: The Early Adventures 5.
+Смерть Себастьяна Шоу]]></text>
+</doc>

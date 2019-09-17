@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A4%D1%8C%D1%8E%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Фьюи]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Фьюи]]></item>
+    <item type="str"><![CDATA[Расы (Ф)]]></item>
+    <item type="str"><![CDATA[Разумные расы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Фьюи (англ. Phuii), ед. ч. фьюй — миниатюрные гусеподобные существа с зелёной кожей, как у пресмыкающихся. Фьюи происходили с планеты Фью, где они жили на скалах и в каньонах. Свои длинные шеи они использовали, чтобы добираться до пищи. Фьюи часто бывали в кантинах и часто проявляли агрессию, несмотря на малый размер. Сочетание этих двух особенностей приводили к тому, что фьюи были часто биты.
+Фьюями были гонщик на подах Марс Гуо и виго «Чёрного солнца» Неп Чанг. Также фьюем был Чрос-Филлик, другой удачливый гонщик на подах.]]></text>
+</doc>

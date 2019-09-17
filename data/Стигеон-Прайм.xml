@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A1%D1%82%D0%B8%D0%B3%D0%B5%D0%BE%D0%BD-%D0%9F%D1%80%D0%B0%D0%B9%D0%BC]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Стигеон-Прайм]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки о планетах]]></item>
+    <item type="str"><![CDATA[Планеты по алфавиту]]></item>
+    <item type="str"><![CDATA[Планеты Внешнего Кольца]]></item>
+    <item type="str"><![CDATA[Планеты Галактической Империи]]></item>
+    <item type="str"><![CDATA[Планеты КНС]]></item>
+    <item type="str"><![CDATA[Ледяные планеты]]></item>
+    <item type="str"><![CDATA[Планеты с атмосферой I типа]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Стигеон-Прайм (англ. Stygeon Prime), также известный как Стигеон — заснеженная планета в Галактике. Во времена Войн клонов там находился секретный объект, где Лорды ситхов Дарт Сидиус и Дарт Тиранус содержали пленённого на Мандалоре Дарта Мола. Впоследствии Дарт Мол был освобождён из тюрьмы мандалорцами из Коллектива теней. Позже использовалась Галактической Империей.]]></text>
+</doc>

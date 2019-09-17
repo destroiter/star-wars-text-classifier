@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A7%D0%BE%D0%BA%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Чокк]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Жители Татуина]]></item>
+    <item type="str"><![CDATA[Клатуинцы]]></item>
+    <item type="str"><![CDATA[Слуги Джаббы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Чокк (англ. Chokk) — клатуинец, охранник Джаббы Десилиджика Тиуре. Он очень гордился своей работой. Он охранял Джаббу в 32 ДБЯ, во время гонок Бунта Ив Классик, проходивших в Мос-Эспа.]]></text>
+</doc>

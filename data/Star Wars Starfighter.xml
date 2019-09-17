@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/Star_Wars:_Starfighter]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Star Wars: Starfighter]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Видеоигры LucasArts]]></item>
+    <item type="str"><![CDATA[Видеоигры 2003 года]]></item>
+    <item type="str"><![CDATA[Видеоигры для игровых автоматов]]></item>
+    <item type="str"><![CDATA[Видеоигры для PlayStation 2]]></item>
+    <item type="str"><![CDATA[Видеоигры для PlayStation 3]]></item>
+    <item type="str"><![CDATA[Видеоигры для Windows]]></item>
+    <item type="str"><![CDATA[Видеоигры для Xbox]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Star Wars: Starfighter — космический симулятор для ПК, Xbox и PlayStation 2, действие которого происходит во время фильма «Звёздные войны. Эпизод I: Скрытая угроза», её выпустили 19 февраля 2001 года.
+Star Wars: Starfighter Special Edition - улучшенная версия оригинальной версии, Star Wars: Starfighter. Он содержал некоторые бонусные дополнения, не включенные в первое издание, такие как улучшенная графика, специальные бонусные уровни, доступные истребители и даже двухпользовательскую версию.
+Сценарий игры был разработан Мэттом Джейкобсом.]]></text>
+</doc>

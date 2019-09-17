@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/TC-4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[TC-4]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Протокольные дроиды серии TC]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[TC-4 — красный протокольный дроид серии TC, принадлежавший сенатору Палпатину.
+Биография
+Во времена кризиса на Набу, в 32 ДБЯ протокольный дроид ТС-4 прислуживал сенатору, а затем и верховному канцлеру Галактической Республики Палпатину.
+За кулисами
+TC-4 должен был появится в Доме 500, но был вырезан в Призрачной угрозе.
+Появление
+Star Wars Episode I: I Am a Droid
+Звёздные войны. Эпизод I: Призрачная угроза (вырезан)
+Источники
+Star Wars Chronicles: The Prequels
+в ЛЕГО]]></text>
+</doc>

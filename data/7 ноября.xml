@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/7_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[7 ноября]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Ноябрь]]></item>
+    <item type="str"><![CDATA[7 ноября]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[7 ноября — 311-й день года (312-й в високосные годы) в григорианском календаре. До конца года остаётся 54 дня.
+1994 — публикация книги Rebel Assault: Официальное руководство создателей.
+1995 — выход комикса Наследник Империи, часть 2.
+2007 — публикация книги Звёздные войны. Рыцари Старой Республики: Руководство.
+2007 — выход комикса Рыцари Старой Республики 22: Рыцари страдания, часть 1.
+2007 — выход комикса Наследие 17: Когти Дракона, часть 4.
+2008 — вышел в эфир эпизод «Провал дроида»]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/Walt_Disney_Studios_Motion_Pictures]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Walt Disney Studios Motion Pictures]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Кинокомпании]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Walt Disney Studios Motion Pictures это американская киностудия, являющаяся дистрибьюторским отделом компании The Walt Disney Company.
+Основанное в 1953 как Buena Vista Distribution Company, подразделение руководит дистрибьюцией и маркетингом кинофильмов создаваемых компаниями принадлежащих Walt Disney Studios, включая: Walt Disney Pictures, Touchstone Pictures, Disneynature, Marvel Studios и Lucasfilm (начиная с 2015 года).]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A0%D0%BE%D0%B1%D0%B0/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Роба]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки об одежде]]></item>
+    <item type="str"><![CDATA[Неполный список]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Роба (англ. Robe) — разновидность свободно облегающей одежды с рукавами. Джедаи и ситхи часто носили робы под плаўами. Дарт Сидиус носил скрытую робу из зейд-ткани, а его приспешники, Дарт Вейдер и Имперские гвардецы носили робы в сочетании с бронёй. Джавы носили робы с глубоким капюшоном.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/3B3-888]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[3B3-888]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Дезактивированные в 32 ДБЯ]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Боевые дроиды B1]]></item>
+    <item type="str"><![CDATA[Члены Торговой федерации]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[3B3-888 — боевой дроид B1 Торговой федерации, служивший в армии дроидов вице-короля Нута Ганрея. Когда войска Ганрея вторглись на Набу в 32 ДБЯ, гунганы мобилизировали для борьбы с захватчиками свою армию. 3B3-888 участвовал в сражении с гунганами и вместе с несколькими другими дроидами взял в плен вражеского бомбад-генерала Джа-Джа Бинкса и капитана Руса Тарпальса. Вскоре 3B3-888 и остальные дроиды были деактивированы, когда юный пилот по имени Энакин Скайуокер уничтожил их корабль управления.]]></text>
+</doc>

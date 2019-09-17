@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%BB/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Пол]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Статьи, написанные не в прошедшем времени]]></item>
+    <item type="str"><![CDATA[Страницы, нуждающиеся во внимании]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Большинство существ в галактике принадлежат к одному из двух полов (мужскому или женскому), хотя истинное число полов гораздо больше, который определяет физиологические черты данного существа. Дроиды не имеют пола, они могут быть запрограммированы на мужское или женское поведение, моделировать поведение конкретного пола. Таким образом, даже по отношению к механическим существам употребляются местоимения он или она.]]></text>
+</doc>

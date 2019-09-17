@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A5%D1%80%D0%BE%D0%BC]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Хром]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о материалах]]></item>
+    <item type="str"><![CDATA[Вещества]]></item>
+    <item type="str"><![CDATA[Элементы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Хром был веществом, используемым в обшивке транспортного средства. Также хром иногда использовался для бластерных пистолетов.]]></text>
+</doc>

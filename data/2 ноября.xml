@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/2_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[2 ноября]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Ноябрь]]></item>
+    <item type="str"><![CDATA[2 ноября]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[2 ноября — 306-й день года (307-й в високосные годы) в григорианском календаре. До конца года остаётся 59 дней.
+1953 — родился Том Лайл.
+1954 — родился Брайан Огустин.
+1978 — родился Уит Хертфорд.
+1983 — опубликован журнал Return of the Jedi Weekly 20.
+1985 — выход серии Coby and the Starhunters мультсериала «Звёздные войны: Дроиды»
+1985 — выход серии Sunstar vs. Shadowstone мультсериала «Звёздные войны: Эвоки»
+1992 — родилась Наоми Аки.
+1995 — публикация книги Меч тьмы.
+2005 — выход комикса X-wing: Проныра-лидер, часть 2.
+2016 — выход комикса Тунский груз.
+2017 — выход комикса Звёздные войны. Потерянные звёзды, глава 10.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/20_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[20 ноября]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Ноябрь]]></item>
+    <item type="str"><![CDATA[20 ноября]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[20 ноября — 324-й день года (325-й в високосные годы) в григорианском календаре. До конца года остаётся 41 день.
+2007 — публикация книги Интерлюдия на Даркнелле на русском языке.
+2009 — вышел в эфир эпизод «Наследие террора»]]></text>
+</doc>

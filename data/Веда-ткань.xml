@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%92%D0%B5%D0%B4%D0%B0-%D1%82%D0%BA%D0%B0%D0%BD%D1%8C]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Веда-ткань]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Материалы и ткани]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Веда-ткань (англ. Veda cloth) — дорогая материя, использовавшаяся при шитье одежд. Она существовала на момент Второй Великой галактической войны, и в этот период существовало два комплекта брони, покрытых веда-тканью: бурой и чёрной раскраски.
+Изделия из веда-ткани выглядели достаточно элегантно. В 980 ДБЯ из этого материала была сделана пурпурная лента, носимая тёмным джедаем Сетом Хартом, а в 32 ДБЯ роба Верховного канцлера Финиса Валорума была сделана из веда-ткани.]]></text>
+</doc>

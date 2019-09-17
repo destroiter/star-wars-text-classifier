@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/1991_%D0%B3%D0%BE%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[1991 год]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Годы (реальный мир)]]></item>
+    <item type="str"><![CDATA[1991 год]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Список событий 1991 года, связанных со вселенной «Звёздных войн».
+Февраль
+8 — родилась Эльвира Ишмуратова.
+Март
+4 — родился Пип Андерсон.
+Июнь
+1 — публикация книги Наследник Империи.
+1 — публикация книги Planets of the Galaxy, Volume One.
+Август
+22 — родилась Мэдисон Ллойд.
+Октябрь
+27 — родилась Шарлотта Луиз
+Декабрь
+12 — выход комикса Тёмная империя, часть 1: Участь джедая.]]></text>
+</doc>

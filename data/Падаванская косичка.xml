@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9F%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%B8%D1%87%D0%BA%D0%B0/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Падаванская косичка]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки]]></item>
+    <item type="str"><![CDATA[Культура джедаев]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Падаванская косичка (англ. Padawan braid) — элемент внешнего облика джедая, заплетавшийся из его волос, символизировавший собой его ученичество — ранг падавана. Во время церемонии посвящения в рыцари косичка ритуально отсекалась, что символизировало собой завершение джедаем своего обучения. В случае, если падаван изгонялся из Ордена, его косичка также отсекалась.
+Для рас, у которых нет волосяного покрова на голове, была придумана искусственная косичка из бусов.]]></text>
+</doc>

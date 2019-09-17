@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A8%D1%83%D1%80%D1%80%D1%83%D0%BF%D0%B0%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Шуррупак]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Статьи с крупными спойлерами]]></item>
+    <item type="str"><![CDATA[Заготовки о локациях]]></item>
+    <item type="str"><![CDATA[Астрономические объекты]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Шуррупак (англ. Shurrupak) — мир, поверхность которого покрывали океаны и пляжи. В эпоху Республики мастер-джедай Дуку и его падаван Квай-Гон Джинн были вовлечены в битву на Шуррупаке вместе с Рэлом Эверроссом.]]></text>
+</doc>

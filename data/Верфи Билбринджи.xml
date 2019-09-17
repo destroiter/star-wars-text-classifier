@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%92%D0%B5%D1%80%D1%84%D0%B8_%D0%91%D0%B8%D0%BB%D0%B1%D1%80%D0%B8%D0%BD%D0%B4%D0%B6%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Верфи Билбринджи]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Верфи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Верфи Билбринджи или Ремонтные верфи Билбринджи были крупным комплексом, выпускающим военную продукцию, который контролировала сначала Галактическая Империя, а затем Новая Республика. Расположенные на орбите с астероидом Билбринджи VII, верфи были огромной судостроительной платформой, частично строящей корабли и производящей технику.]]></text>
+</doc>

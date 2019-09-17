@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9E%D0%B7%D0%BE%D0%BD/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Озон]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Газы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Озон (англ. Ozone) — газ с отличительным неприятным запахом, входивший в состав атмосфер многих планет. Он образуется при выбросах энергии в атмосферу, в том числе от электрических разрядов, бластеров и ионных бомб. Кертас и Рисмор общались, изменяя химический состав воздуха вокруг себя. Кассиан Андор понимал, что они обменялись информацией, учуяв запах озона.]]></text>
+</doc>

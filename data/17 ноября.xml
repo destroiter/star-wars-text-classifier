@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/17_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[17 ноября]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Ноябрь]]></item>
+    <item type="str"><![CDATA[17 ноября]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[17 ноября — 321-й день года (322-й в високосные годы) в григорианском календаре. До конца года остаётся 44 дня.
+1978 — в эфир телеканала CBS вышел телефильм Звёздные войны: праздничный спецвыпуск.
+2001 — выпущена компьютерная игра Star Wars: Rogue Squadron II: Rogue Leader (Платформа Gamecube).
+2004 — публикация сборника комиксов Clone Wars Adventures: Volume 2.
+2006 — публикация книги Возвращение тёмной стороны.
+2015 — выпущена компьютерная игра Star Wars Battlefront.]]></text>
+</doc>

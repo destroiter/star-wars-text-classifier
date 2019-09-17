@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/2_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[2 февраля]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Февраль]]></item>
+    <item type="str"><![CDATA[2 февраля]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[2 февраля — 33-й день года в григорианском календаре. До конца года остаётся 332 дня (333 дня — в високосные годы).
+1978 — родился Адам Кристофер.
+1998 — публикация книги «X-wing: Призрачная эскадрилья».
+1999 — публикация книги «X-wing: Ставка Соло».
+2000 — публикация сборника комиксов «Тени Империи: Эволюция».
+2005 — публикация комикса «Звёздные войны: Одержимость, часть 3».]]></text>
+</doc>

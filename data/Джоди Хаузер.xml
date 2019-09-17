@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%94%D0%B6%D0%BE%D0%B4%D0%B8_%D0%A5%D0%B0%D1%83%D0%B7%D0%B5%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Джоди Хаузер]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о персоналиях из реального мира]]></item>
+    <item type="str"><![CDATA[Авторы комиксов]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Джоди Хаузер (англ. Jody Houser) — автор комиксов. Она стала автором мини-серии комиксов от издательства Marvel Comics «Звёздные войны: Изгой-один» и «Звёздные войны: Траун».]]></text>
+</doc>

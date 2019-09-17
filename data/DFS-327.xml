@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/DFS-327]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[DFS-327]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[DFS-серия]]></item>
+    <item type="str"><![CDATA[Дезактивированные в 32 ДБЯ]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[DFS-1104 - дроид-стервятник в DFS-эскадроне назначенный на Саак'ак во время блокады Набу. Главной задачей дроида было охранять судно контролирующее дроидов. Во время основной атаки DFS-327 был уничтожен.]]></text>
+</doc>

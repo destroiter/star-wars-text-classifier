@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Океан]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о природе]]></item>
+    <item type="str"><![CDATA[Водоёмы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Океаны (англ. Ocean) — обширные водные пространства. Планеты, большая часть поверхности которых была покрыта океанами, среди которых были Мон-Кала, Камино и Квила, назывались океаническими.]]></text>
+</doc>

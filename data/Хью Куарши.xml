@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A5%D1%8C%D1%8E_%D0%9A%D1%83%D0%B0%D1%80%D1%88%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Хью Куарши]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о персоналиях из реального мира]]></item>
+    <item type="str"><![CDATA[Актёры «Звёздных войн»]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Хью Куарши (англ. Hugh Quarshie) (родился 22 декабря 1954 года) — актёр, исполнивший роль капитана Куарша Панаки в фильме «Звёздные войны. Эпизод I: Скрытая угроза».]]></text>
+</doc>

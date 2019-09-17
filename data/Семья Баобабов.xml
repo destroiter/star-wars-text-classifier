@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%BC%D1%8C%D1%8F_%D0%91%D0%B0%D0%BE%D0%B1%D0%B0%D0%B1%D0%BE%D0%B2]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Семья Баобабов]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки]]></item>
+    <item type="str"><![CDATA[Семьи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Семья Баобабов (англ. Baobab family) была одним из старейших и наиболее богатых кланов галактики. Их торговый флот стал одним из лучших в галактике. Известными членами семьи Баобабов были Манго Баобаб, «Старый Оггер» Баобаб, Эбенн Кью3 Баобаб, Пуки Баобаб и отец языка дроидов, Иперио Баобаб. Крикс Q5 Баобаб был кандидатом в преподаватели в торговой морской академии Баобабов.]]></text>
+</doc>

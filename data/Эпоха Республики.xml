@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%AD%D0%BF%D0%BE%D1%85%D0%B0_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Эпоха Республики]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки о датах и периодах]]></item>
+    <item type="str"><![CDATA[Годы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Эпоха Республики (англ. Republic Era), также известная как Сумерки Республики (англ. Twilight of the Republic) и Сумерки Старой Республики (англ. Twilight of the Old Republic), — галактическая эпоха, предварявшая падение Республики. Одним из значимых событий этого периода было избрание Падме Амидалы королевой Набу.
+События
+Падме Амидала официально коронована королевой Набу.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/2_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[2 декабря]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Декабрь]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[2 декабря — 336-й день года (337-й в високосные годы) в григорианском календаре. До конца года остаётся 29 дней.
+2007 — выход комикса Наследие 13: Перед лицом смерти на русском языке.
+2010 — публикация комикса «Star Wars: The Old Republic 6: Blood of the Empire, Part 3».
+2011 — вышел в эфир эпизод «Рабы Республики»
+2015 — публикация комикса «Звёздные войны 13: Крушение Вейдера, часть 3».]]></text>
+</doc>

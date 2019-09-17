@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/Star_Wars:_Anakin%27s_Speedway]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Star Wars: Anakin's Speedway]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Видеоигры 2000 года]]></item>
+    <item type="str"><![CDATA[Видеоигры для Macintosh]]></item>
+    <item type="str"><![CDATA[Видеоигры для Windows]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Star Wars: Anakin's Speedway — видеоигра, представляющая собой упрощённый имитатор гонок на подах, которые ведут Энакин Скайуокер и другие персонажи, появляющиеся в фильме «Скрытая угроза». Выпущена Lucas Learning в 2000 году для платформ с ОС Windows и Mac OS.
+Описание
+Игра предназначена для детей в возрасте от 4 лет. Игрок имеет возможности создавать и видоизменять гоночные трассы, расположенные на нескольких планетах, и проводить на них гонки на подах, пилотируемых такими персонажами, как Энакин Скайуокер, Себульба, Бен Куадинарос и Гасгано. Среди элементов трассы имеется повороты, петли, трамплины, мосты и туннели, позволяющие игроку исследовать динамику гоночный пода. Готовые трассы можно распечатать как уникальные карты.]]></text>
+</doc>

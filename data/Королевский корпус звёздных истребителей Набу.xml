@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%9D%D0%B0%D0%B1%D1%83/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Королевский корпус звёздных истребителей Набу]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Организации Набу]]></item>
+    <item type="str"><![CDATA[Боевые подразделения]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Королевский корпус звёздных истребителей Набу (англ. Naboo Royal Space Fighter Corps) — одно из трёх подразделений Королевских сил безопасности Набу во главе с капитаном Панакой. В задачи корпуса входило поддержание безопасности в околопланетном пространстве Набу. Рик Олие, ветеран корпуса, был главой эскадрильи «Браво», а также пилотом Королевского звёздного корабля. Во время битвы за Набу корпус звёздных истребителей, с помощью Энакина Скайуокера, смог одержать победу над Торговой федерацией.]]></text>
+</doc>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/Scholastic]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Scholastic]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Издательства]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Scholastic — издательство, выпускающее детские книги.
+Книги
+Adventures in Hyperspace series
+Серия Боба Фетт
+Episode I Adventures
+Серия Ученик джедая
+Серия Странствия джедая
+Серия Последний из джедаев
+Rebel Force series
+Star Wars Adventures
+Star Wars Junior series
+Star Wars Missions
+Star Wars Science Adventures series
+Восход и падение Дарта Вейдера
+Жизнь и легенда Оби-Вана Кеноби
+The Star Wars Storybook
+Star Wars: A Storybook
+The Empire Strikes Back: A Storybook
+Return of the Jedi: A Storybook
+A New Hope: The Life of Luke Skywalker
+Наследие джедаев
+Тайны джедаев
+LEGO Star Wars: Anakin: Space Pilot
+Star Wars: The Complete Saga
+Star Wars: Jedi Academy series
+Внешние ссылки
+Scholastic Press в Wikipedia(англ.)
+Официальный веб-сайт]]></text>
+</doc>

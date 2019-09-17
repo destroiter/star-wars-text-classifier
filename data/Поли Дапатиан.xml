@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9F%D0%BE%D0%BB%D0%B8_%D0%94%D0%B0%D0%BF%D0%B0%D1%82%D0%B8%D0%B0%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Поли Дапатиан]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Статьи с крупными спойлерами]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Члены Высшего совета джедаев]]></item>
+    <item type="str"><![CDATA[Мастера-джедаи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Поли Дапатиан (англ. Poli Dapatian) — мастер-джедай мужского пола, прославленный джедай, который заседал в Высшем совете до вторжения на Набу. Во время своего пребывания в Совете Дапатиан взял падавана, который был одним из самых близких друзей Квай-Гон Джинна. Некоторое время спустя Дапатиан объявил, что намерен покинуть свою должность, поскольку к этому моменту находился уже в преклонном возрасте. Его место было предложено Джинну, который попросил немного времени, чтобы обдумать это. Дапатиан носил респираторную маску.]]></text>
+</doc>

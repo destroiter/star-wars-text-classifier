@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%AD%D0%BB%D0%B8%D0%BE]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Элио]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Статьи с крупными спойлерами]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Персонажи неизвестной расы]]></item>
+    <item type="str"><![CDATA[Персонажи неизвестного пола]]></item>
+    <item type="str"><![CDATA[Мастера-джедаи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Элио (англ. Elio) — мастер-джедай, служивший в Ордене джедаев в эпоху Республики. Вместе с товарищами-джедаями Дуку и Квай-Гоном Джинном, Элио принял участие в битве на Шуррупаке, прибыв туда на шаттле.]]></text>
+</doc>

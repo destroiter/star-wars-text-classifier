@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/DFS-1138]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[DFS-1138]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[DFS-серия]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[DFS-1138 - дроид-стервятник, назначенный на Саак'ак во время Блокады Набу. Когда Квай-Гон Джинн и Оби-Ван Кеноби прибыли на борт судна, DFS-1138 присутствовал в ангаре. Позже, когда джедаи уничтожили Саак'ак DFS-1138 был замечен покидающим корабль вместе со своим товарищем дроидом-стервятником.]]></text>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/3_%D0%B8%D1%8E%D0%BD%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[3 июня]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Июнь]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[3 июня — 154-й день года (155-й в високосные годы) в григорианском календаре. До конца года остаётся 211 дней.
+1930 — родился Моррис Буш.
+1947 — родился Джон Дикстра.
+1998 — выход комикса Jabba the Hutt: The Art of the Deal.
+2003 — публикация книги «Уязвимая точка».
+2004 — публикация «Beheboth: Blood and Water, Part 1: Return to Prosperity».
+2004 — публикация «Political Platforms».
+2010 — публикация Omnibus: A Long Time Ago... Volume 1.
+2017 — в Москве начался фестиваль StarFans IV.]]></text>
+</doc>

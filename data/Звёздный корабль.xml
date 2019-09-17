@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Звёздный корабль]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Мало иллюстраций]]></item>
+    <item type="str"><![CDATA[Звездолёты]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Звёздный корабль (англ. Starship) — управляемое транспортное средство, использовавшееся для передвижения в открытом космосе. Корабли, оборудованные гипердвигателями, могли совершать полёты на скорости превышающей скорость света, входя в гиперпространство, что значительно уменьшало время полёта между звёздными системами. Существовало множество типов звёздных кораблей, от небольших звёздных истребителей до гиганских линкоров.]]></text>
+</doc>

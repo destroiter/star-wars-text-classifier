@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_R5]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Модель R5]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о дроидах]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Модель R5 (англ. R5 unit) — разновидность дроидов-астромехаников серии R, производимых компанией Промышленные автоматы. Астромехи R5 были недорогими, но часто ломались. Дроид с номером R5-D4 был одним из последних произведённых дроидов этой модели.]]></text>
+</doc>

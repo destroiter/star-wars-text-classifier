@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A0%D1%8B%D0%B1%D0%B0-%D0%BA%D0%BE%D0%B3%D0%BE%D1%82%D1%8C_%D0%BA%D0%BE%D0%BB%D0%BE/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Рыба-коготь коло]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о животных]]></item>
+    <item type="str"><![CDATA[Животные Набу]]></item>
+    <item type="str"><![CDATA[Рыбы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Рыба-коготь коло (англ. Colo claw fish), иногда также называемое коло когтерыба (англ. colo clawfish) — огромное кошмарное существо, обитавшее в глубинах морей Набу. Коло обладал плоским, угреподобным телом с биолюминесцентными отростками, похожей на крокодилью голову с большими острыми зубами и прикреплёнными к нижней челюсти жвалами.
+В своём путешествии в Тид, во время вторжения на Набу, Квай-Гон Джинн, Оби-Ван Кеноби и Джа-Джа Бинкс были атакованы рыбой коло. но прежде чем коло смог нанести их бонго серьёзный урон, его съел огромный водным чудовищем сандо.
+Мясо рыбы коготь коло считалось вкусным и использовалось в пищу салластанцами и людьми.]]></text>
+</doc>

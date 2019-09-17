@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/27_%D0%B8%D1%8E%D0%BB%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[27 июля]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Июль]]></item>
+    <item type="str"><![CDATA[27 июля]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[27 июля — 208-й день года (209-й в високосные годы) в григорианском календаре. До конца года остаётся 157 дней.
+1940 — родился Гари Кёрц.
+2006 — выход комикса Восстание 0: Перекресток на русском языке.
+2006 — выход комикса Наследие 2: Излом, часть 2 на русском языке.]]></text>
+</doc>

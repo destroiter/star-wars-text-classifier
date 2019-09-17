@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9F%D0%BE%D1%81%D0%BE%D0%BB/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Посол]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Дипломаты]]></item>
+    <item type="str"><![CDATA[Политические титулы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Послами (англ. Ambassador) называли тех, кто представлял интересы одной стороны в лагере другой. Послы зачастую имели статус дипломатов и обладали неприкосновенностью. Члены Ордена джедаев выполняли роль послов мира в Галактической Республике от лица Галактического Сената и Верховного канцлера, помогая разрешать конфликты.
+Галактическая Империя использовала послов как наместников на покорённых в ходе Войн клонов планетах, в том числе Меркане.
+Тви'лек Йендор был послом Рилота в Галактическом Сенате Новой Республики.]]></text>
+</doc>

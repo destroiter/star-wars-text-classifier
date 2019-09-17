@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/25_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[25 декабря]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Декабрь]]></item>
+    <item type="str"><![CDATA[25 декабря]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[25 декабря — 359-й день года (360-й в високосные годы) в григорианском календаре. До конца года остаётся 6 дней.
+События
+1977 год – премьера «Звёздных войн» ("La Guerra de las Galaxias") в Мексике
+2015 год – Джейсон Уингрин, озвучивший Бобу Фетта в Эпизоде V, умирает в возрасте 95 лет.]]></text>
+</doc>

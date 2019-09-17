@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/13_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[13 октября]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Октябрь]]></item>
+    <item type="str"><![CDATA[13 октября]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[13 октября — 286-й день года (287-й в високосные годы) в григорианском календаре. До конца года остаётся 79 дней.
+1999 — выход комикса The Bounty Hunters: Kenix Kil.
+2009 — публикация книги Штурмовики смерти.
+2010 — выход комикса Странствующий рыцарь: Объятые пламенем, часть 1.]]></text>
+</doc>

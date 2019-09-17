@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%BE%D0%BB%D0%B8%D1%84%D1%82]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Турболифт]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Технологии транспортировки]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Турболифт, также известный как вакуум-лифт, вакуумный подъёмник или лифт-труба, был подъёмной машиной, использующейся для перевозки грузов или разумных существ по вертикальной направляющей на огромные расстояния. В основе турболифта применялась репульсорная антигравитационная технология. Они доставляли в нужное место на больших скоростях без травм. Существовала также разновидность турболифтов под названием турбоватор.]]></text>
+</doc>

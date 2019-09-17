@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A3%D0%B0%D0%BB%D0%B0%D0%BA%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Уалаки]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Подрасы аквалишей]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Уалаки (англ. Ualaq) — одна из трёх подрас аквалишей с планеты Андо. Они имеют четыре глаза, одна пара которых располагалась под другой, два острых клыка, а также три пальца на каждой руке. Цвет кожи уалаков бывает серого и чёрного цвета.
+Самыми известными представителями уакаков были сенатор от Андо в Галактическом Сенате По Нудо, а также два его помощника. Один из них, Нанк Тун, был представителем расы ши'идо, но тайно поддерживал себя в облике уалака, чтобы сблизится со своим начальником, а второй являлся простым аквалишем.]]></text>
+</doc>

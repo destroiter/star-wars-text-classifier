@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%93%D0%BB%D0%B0%D0%B7/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Глаз]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Глаза (англ. Eyes) — основной зрительный орган представителей большинства разумных и животных видов. У большинства видов имелась лишь одна пара глаз, расположенная на голове, в то время как некоторые расы, такие как абиссины, имели всего один глаз, а другие, такие как харчи, обладали несколькими парами глаз.]]></text>
+</doc>

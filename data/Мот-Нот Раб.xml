@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9C%D0%BE%D1%82-%D0%9D%D0%BE%D1%82_%D0%A0%D0%B0%D0%B1]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Мот-Нот Раб]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Заготовки о персонажах]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Тарнабы]]></item>
+    <item type="str"><![CDATA[Сенаторы Галактической Республики]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Мот-Нот Раб (англ. Mot-Not Rab) — мужчина, тарнаб, который был сенатором Галактической Республики в годы её заката, при этом являясь членом фракции одного объединения сенаторов.]]></text>
+</doc>

@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Видеоигра]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Видеоигры]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Видеоигра — разновидность игры, которая ведётся путём взаимодействия игрока и электронной системы, в которой устройство визуального отображения (дисплей) является основным механизмом, обеспечивающим обратную связь с игроком. В узком смысле словом «видеоигра» (компьютерная игра) называют программу для электронной вычислительной машины, созданную специально для игровых целей.
+Как правило, говоря о видеоиграх, имеют в виду цифровые видеоигры; к ним примыкают аналоговые электронные игры, в которых игровой процесс управляется не цифровыми, а аналоговыми схемами. В зависимости от вида электронной игровой системы (называемой платформа), в видеоигры можно играть на компьютерах (компьютерные игры; иногда этим термином расширительно называют все видеоигры), телеприставках (игровых консолях), игровых автоматах, портативных игровых устройствах (в том числе карманных микропроцессорных играх, отличающихся от игровых консолей наличием на устройстве всего одной несменной игры), мобильных телефонах.
+Жанры игр
+Платформер (англ. Platformer) — игра, в которой основной чертой игрового процесса является прыгание персонажа по платформам, лазанье по лестницам, собирание предметов, обычно необходимых для завершения уровня. Противники всегда многочисленные и разнородные, обладают примитивным искусственным интеллектом, стремясь максимально приблизиться к игроку, либо не обладают им вовсе, перемещаясь по циклической траектории или совершая повторяющиеся действия. Соприкосновение с противником обычно отнимает жизненные силы у героя или вовсе убивает его. Классическими платформерами являются игры Star Wars (1987), Star Wars (1991) и The Empire Strikes Back (1992).
+Квест (англ. Quest) или приключенческая игра (англ. Adventure game) представляют собой интерактивную историю с главным героем, управляемым игроком. Важнейшими элементами игры в жанре квеста являются собственно повествование и обследование мира, а ключевую роль в игровом процессе играют решение головоломок и задач, требующих от игрока умственных усилий. Официальных игр Вселенной Звёздных Войн, в чистом виде относящихся к этому жанру, не выпускалось, однако вне лицензии было выпущено несколько чисто текстовых и текстово-графических адвенчур: Jedi Knight. Warriors of the Old Republic (1980), Darth Vader Adventure, Star Wars Adventure (1984), The Death Star (1985), City in the Clouds (1990) и др.
+Массовая многопользовательская ролевая онлайн-игра или ММОРПГ (англ. Massively multiplayer online role-playing game, MMORPG) — онлайн-игра, в которой игроки управляют персонажем и имеют широкие возможности для взаимодействия друг с другом. В таких играх имеется большое количество разнообразных локаций и множество неигровых персонажей (NPC), придающих большую реалистичность миру игры. Примерами таких игр являются Star Wars Galaxies, Star Wars: Clone Wars Adventures и Star Wars: The Old Republic.
+Файтинг (англ. Fighting) — жанр видеоигр, имитирующих рукопашный бой малого числа персонажей в пределах ограниченного пространства (называемого ареной). Бой состоит из нечётного числа отдельных раундов и не является непрерывным; в конце боя определяется победитель. сражение может вестись как безоружными персонажами, так и с применением оружия (например, световых мечей или дистанционно управляемых дроидов). Как правило, для изображения жизненно важных показателей персонажей (например, здоровья) используются специальные шкалы. Примерами файтингов по Вселенной Звёздных войн являются Star Wars: Masters of Teräs Käsi, Jedi Battle, Star Wars: Jedi Arena и Star Wars: Lightsaber Duel. Кроме того, файтинги могут быть включены в игры других жанров (например, в первый уровень игры Star Wars: Bounty Hunter).
+Космический симулятор (англ. Space flight simulation) — видеоигра, воспроизводящая управление космическим кораблём. Действие таких игр происходит, как правило, в космосе или вблизи поверхности планет. Степень «достоверности» (в случае Звёздных войн это сложность управления, влияние внешних факторов на поведение корабля и пр.) может быть весьма различной; игры, в которых управление кораблём упрощено, называют аркадными космическими симуляторами. В силу специфики Вселенной Звёздных войн практически все представители данного жанра — боевые симуляторы. Примерами космических симуляторов являются игры The Empire Strikes Back, Star Wars: X-wing, Star Wars: Rogue Squadron.
+Стратегия в реальном времени (англ. Real-time strategy) — стратегическая видеоигра, в которой игрок в реальном времени размещает и маневрирует подразделениями и сооружениями, находящимися под его контролем, для защиты от противника своей области карты и (или) для уничтожения аналогичных сил противника. Во многих играх такого рода в ходе игрового процесса можно создавать дополнительные подразделения и сооружения. Обычно создание ограничивается требованием расходования полученных изначально либо накопленных ресурсов; в последнем случае ресурсы получаются путем контроля специальных точек на карте либо использованием определенными типами единиц и структур, предназначенных для этой цели. Примерами стратегий в реальном времени являются Star Wars: Force Commander, Star Wars: Galactic Battlegrounds.
+Гоночная игра (англ. Racing video game) — видеоигра с видом от первого или от третьего лица, где игрок принимает участие в гоночном соревновании на каком-либо типе транспортных средств. Целью гонки может быть победа над соперниками как путём достижения финиша первым, так и уничтожение всех соперников на гоночной трассе (гонки на выживание, англ. Vehicular combat). Примерами таких игр являются Star Wars: Episode I Racer, Star Wars: Anakin's Speedway, Star Wars: Demolition; в качестве подуровней гонки встречаются в Star Wars: Rogue Squadron, Star Wars: Knights of the Old Republic.
+Игровая механика
+Игровая механика (англ. game mechanics) — набор правил и способов, реализующий определённым образом некоторую часть интерактивного взаимодействия игрока и игры. Все множество игровых механик игры формируют конкретную реализацию её игрового процесса.
+Отсылка к игровой механике является распространённым объяснением различий воплощений элементов вселенной Звёздных войн в конкретных видеоиграх и других источниках вселенной. Примерами таких различий могут быть несоответствия размеров игровых моделей звёздных кораблей между собой и сравнительно с персонажами; взаимное расположение географических объектов на планетах и расстояния между ними; наличие у кораблей технических особенностей, отсутствующих в канонических описаниях — брони, вооружения, скорости перемещения и пр.; отсутствующие в общей хронологии события или изменённый их порядок (например, неканонические сюжетные ветви, возможность несвоевременной гибели персонажей и т.п.). Как правило, такие противоречия разрешаются путём признания этих элементов игровой механики неканоничными даже в тех случаях, когда сами игры каноничными являются; в отдельных же случаях элементы игровой механики ведут к ретконам, когда непротиворечивое объяснение даётся задним числом (пример — введение истребителя R-22 «Остриё» для снятия противоречий в «несвоевременном» появлении перехватчиков RZ-1 «A-wing» в ряде видеоигр и мультфильмов).
+Список лицензированных игр в порядке их выхода
+Поскольку появление Вселенной Звёздных войн лишь немногим опередило начало массового производство видеоигр и совпало с появлением доступных персональных компьютеров, регламентирование производства и распространения видеоигр в США и многих других странах было несовершенным или отсутствовало вовсе, что способствовало появлению в конце 1970-х — начале 1980-х годов большого количества видеоигр по сюжетам Звёздных войн, созданных вне рамок лицензий LucasFilm и других обладателей прав на эту торговую марку, которые, в свою очередь, с большой осторожностью относились к финансированию проектов в этой рискованной (на тот момент) области. Множество таких игр было произведено для платформ Apple II, MSX, TRS-80 и пр.
+1980-е
+«Star Wars: The Empire Strikes Back» — первая официальная видеоигра по вселенной «Звёздные войны». Она была разработана компанией Parker Brothers и вышла в 1982 году для консолей Atari 2600 и Intellivision. Игра являлась адаптацией одноимённого фильма «Империя наносит ответный удар». Её особенностью стала невозможность победить. Суть игры заключалась в том, что игрок брал на себя роль пилота-повстанца, чьей задачей являлось уничтожение наступающих AT-ATов на планете Хот, до того как они достигали базы повстанцев.
+«Return of the Jedi: Death Star Battle» — игра разработанная Parker Brothers для консолей Atari 2600, Atari 5200 и Atari XE, вышедшая в 1983 году. Играть предлагалось за пилота «Тысячелетнего сокола» во время битвы при Эндоре, чьей задачей было уничтожение второй «Звезды Смерти».
+«Star Wars: Jedi Arena» — игра, разработанная Parker Brothers исключительно для Atari 2600 в 1983 году. «Jedi Arena» представляла собой простейшую битву на арене, на которой два рыцаря-джедая стоя друг напротив друга и отбивают лазерные выстрелы. Победа засчитывалась тому игроку, кто сумел отбив выстрел, поразить им противника.
+«Star Wars: The Arcade Game» — аркадная игра, разработанная компанией Atari и вышедшая в июле 1983 года, как первый космо-симулятор от первого лица, основанный на событиях фильма «Звёздные войны. Эпизод IV: Новая надежда», а конкретно битвы при Явине. Игра стала очень популярной и позже была переииздана на многих игровых консолях.
+«Star Wars: Return of the Jedi»
+«The Empire Strikes Back»
+«Star Wars» — Японская видеоигра вышедшая в 1987 году, являвшаяся адаптацией фильма «Звёздные войны. Эпизод IV: Новая надежда». Игра представляла из себя сайд-скроллерный платформер, вышедший на консоли Famicom, и являлась вольной трактовкой сюжета фильма.
+«Droids: Escape from Aaron»
+1990-е
+«Attack on the Death Star»
+«Star Wars» — видеоигра, вышедшая на консоли Nintendo Entertainment System в ноябре 1991 года и воспроизводящая события фильма «Эпизод IV: Новая надежда» в виде сайд-скроллерного платформера.
+«The Empire Strikes Back» — видеоигра, вышедшая на консоли Nintendo Entertainment System в декабре 1991 года, в которой игрок, управляя Люком Скайуокером, принимал участие в событиях «Эпизода V».
+«Super Star Wars»
+«Star Wars: X-Wing»
+«Imperial Pursuit» (дополнение)
+«B-Wing» (дополнение)
+«Star Wars: Rebel Assault»
+«Super Star Wars: The Empire Strikes Back»
+«Star Wars Arcade»
+«Star Wars Chess»
+«Star Wars: X-Wing: Collector's CD-ROM» (ремейк)
+«Super Star Wars: Return of the Jedi»
+«Star Wars: TIE Fighter»
+«Defender of the Empire» (дополнение)
+«Enemy of the Empire» (дополнение)
+«The LucasArts Archives Vol. I»
+«The LucasArts Macintosh Archives Vol. I»
+«Star Wars: Dark Forces»
+«Star Wars: Rebel Assault II: The Hidden Empire»
+«The LucasArts Archives Vol. II: Star Wars Collection»
+«Shadows of the Empire»
+«Star Wars: Jedi Knight: Dark Forces II»
+«Star Wars: Masters of Teräs Käsi»
+«Star Wars: X-Wing vs. TIE Fighter»
+«Balance of Power» (дополнение)
+«The LucasArts Archives Vol. III»
+«Star Wars: Yoda Stories»
+«Star Wars: Jedi Knight: Mysteries of the Sith»
+«Star Wars: Rebellion»
+«Star Wars: DroidWorks»
+«Star Wars: Rogue Squadron»
+«Star Wars: X-Wing Collector Series»
+«The LucasArts Archives Vol. IV: Star Wars Collection II»
+«Star Wars Trilogy Arcade»
+«Star Wars: X-Wing Alliance»
+«Star Wars: Episode I: The Phantom Menace»
+«Star Wars: Episode I Racer»
+«Star Wars Episode I: The Gungan Frontier»
+«Star Wars: Yoda's Challenge Activity Center»
+«Star Wars: Pit Droids»
+2000-е
+«Star Wars: Anakin's Speedway»
+«Star Wars: Episode I Jedi Power Battles»
+«Star Wars: Force Commander»
+«Star Wars: Early Learning Activity Center»
+«Star Wars Math: Jabba's Game Galaxy»
+«Star Wars: Jar Jar's Journey»
+«Star Wars: Demolition»
+«Star Wars Episode I: Obi-Wan’s Adventures»
+«Star Wars: Episode I: Battle for Naboo»
+«Star Wars: Starfighter»
+«Star Wars: Starfighter: Special Edition»
+«Star Wars: Super Bombad Racing»
+«Star Wars: Galactic Battlegrounds»
+«Star Wars: Rogue Squadron II: Rogue Leader»
+«Star Wars: Obi-Wan»
+«Star Wars: Bounty Hunter»
+«Star Wars: Galactic Battlegrounds: Clone Campaigns»
+«Star Wars: Attack of the Clones»'
+«Star Wars: The Clone Wars»
+«Star Wars: Racer Revenge» — видеоигра, вышедшая на PlayStation 2 13 февраля и являвшаяся продолжением игры «Star Wars: Episode I Racer». Сюжет игры развивался вокруг попытки Себульбы взять реванш у Энакина Скайукера. «Racer Revenge» представляла собой гонку на подах, и по механике была похожа на игру «Episode I Racer». В ней имелось тринадцать трасс и двадцать два пилота. Игра была разработана Rainbow Studios и имела возрастной рейтинг E.
+«Star Wars: Jedi Starfighter» — продолжение игры «Star Wars: Starfighter», вышедшее 10 марта на PlayStation 2 и 13 мая на Xbox. События «Jedi Starfighter» разворачивались до и во время событий фильма «Атака клонов» и содержала некоторые элементы, появившиеся в ней до того, как они были показаны в фильме.
+«Star Wars: Jedi Knight II: Jedi Outcast» — продолжение игры «Star Wars: Jedi Knight: Dark Forces II» выпущенное LucasArts и Raven Software 26 марта на PC, Mac, Xbox и GameCube. Действие «Jedi Outcast» проходило 12 ПБЯ, спустя семь лет после событий «Dark Forces II», и рассказывали о битве Кайл Катарн против Осколока Империи и чувствительных к Силе Возрождённых.
+«Star Wars: The New Droid Army»
+«Star Wars Galaxies: An Empire Divided»
+«Star Wars: Knights of the Old Republic»
+«Star Wars: Jedi Knight: Jedi Academy»
+«Star Wars: Rogue Squadron III: Rebel Strike»
+«Star Wars: Flight of the Falcon»
+«Star Wars: Battlefront»
+«Star Wars Trilogy: Apprentice of the Force»
+«Star Wars Galaxies: Jump to Lightspeed» — первое дополнение для онлайн-игры «Star Wars Galaxies» вышедшее 27 октября. «Jump to Lightspeed» добаляло в игру космические путишествия и космические бои в «Galaxies». Помимо этого были добавлены новые расы и профессии.
+«Star Wars: Knights of the Old Republic II: The Sith Lords»
+«Star Wars: Republic Commando»
+«LEGO Star Wars: The Video Game»
+«Star Wars Episode III: Revenge of the Sith»
+«Star Wars Galaxies: Rage of the Wookiees» — второе дополнение для онлайн-игры «Star Wars Galaxies», вышедшее 5 мая. «Rage of the Wookiees» добавило в игру планету Кашиик, а также множество дополнительного контента из фильма «Эпизод II: Месть ситов».
+«Star Wars Galaxies: The Total Experience»
+«Star Wars: Battle Above Coruscant»
+«Star Wars: Republic Commando: Order 66»
+«Star Wars: Battlefront II»
+«Star Wars Galaxies: Trials of Obi-Wan» — третье дополнение для «Star Wars: Galaxies», вышедшее 1 ноября. «Trials of Obi-Wan» добавило в игру планету Мустафар, а также добавило некоторые элеменыт из вышедшей в тоже время DVD версии «Эпизод II: Месть ситов» и HK-47 из «Knights of the Old Republic».
+«Star Wars Galaxies: Starter Kit»
+«Star Wars: Battle for the Republic»
+«Star Wars: Empire at War»
+«LEGO Star Wars II: The Original Trilogy»
+«Star Wars: Empire at War: Forces of Corruption»
+«Star Wars: Grievous Getaway»
+«Star Wars Galaxies: The Complete Online Adventures»
+«Star Wars: The Best of PC» — подпорка пяти лучших игр по «Звёздным войнам» для ПК, включающая: «Star Wars: Battlefront», «Star Wars: Empire at War», «Star Wars: Jedi Knight II: Jedi Outcast», «Star Wars: Knights of the Old Republic» и «Star Wars: Republic Commando». «The Best of PC» также включал четырнадцатидневный пропуск в «Star Wars Galaxies» и вышел 21 ноября.
+«Star Wars: Lethal Alliance»
+«LEGO Star Wars: The Complete Saga» — видеоигра, вышедшая 6 ноября на Xbox 360, Playstation 3, Wii, Nintendo DS и ПК. Она представляла собой компиляцию «LEGO Star Wars» и «LEGO Star Wars II: The Original Trilogy».
+«Star Wars Battlefront: Renegade Squadron»
+«Star Wars The Empire Strikes Back Mobile»
+«Star Wars: Empire at War: Gold Pack»
+«Star Wars: The Force Unleashed»
+«Star Wars: The Clone Wars: Lightsaber Duels»
+«Star Wars: The Clone Wars: Jedi Alliance»
+«Star Wars: The Clone Wars: Republic Heroes»
+«Star Wars: Trench Run»
+«Star Wars: The Force Unleashed: Ultimate Sith Edition»
+«Star Wars Battlefront: Elite Squadron»
+2010-е
+«Star Wars: Clone Wars Adventures»
+«Star Wars: The Force Unleashed II»
+«Star Wars Arcade: Falcon Gunner»
+«LEGO Star Wars III: The Clone Wars»
+«Star Wars: The Old Republic»
+«Kinect Star Wars»
+«Star Wars: Knights of the Old Republic Collection»
+«Angry Birds Star Wars»
+«Battle Orders»
+«Star Wars Pinball»
+«Star Wars: The Old Republic: Rise of the Hutt Cartel»
+«Club Penguin Star Wars Takeover»
+«Angry Birds Star Wars II»
+«Star Wars: Tiny Death Star»
+«LEGO Star Wars: Microfighters»
+«Star Wars: The Old Republic: Galactic Starfighter»
+«Star Wars: Assault Team»
+«Star Wars Journeys: The Phantom Menace»
+«Star Wars Scene Maker»
+«Star Wars Rebels: Ghost Raid»
+«Звёздные войны: Вторжение»
+«LEGO Star Wars The New Yoda Chronicles»
+«Star Wars Rebels: Rebel Strike»
+«Star Wars: The Old Republic: Galactic Strongholds»
+«Star Wars: Galactic Defense»
+«Star Wars: The Old Republic: Shadow of Revan»
+«Star Wars Journeys: Beginnings»
+«Club Penguin Star Wars Rebels Takeover»
+«Star Wars Rebels: Recon Missions»
+«Звёздные войны: Галактика героев»
+«Звёздные войны: Восстание»
+«Star Wars: The Old Republic: Knights of the Fallen Empire»
+«Star Wars Battlefront»
+«Star Wars: Yoda's Jedi Training»
+«LEGO Star Wars: The Force Awakens»
+«Star Wars: Trials on Tatooine»
+«Star Wars Battlefront: Rogue One: X-wing VR Mission»
+«Звёздные войны: Арена Силы»
+«Star Wars: Puzzle Droids»
+«Star Wars: Rivals»
+«Star Wars Battlefront II»
+«LEGO Star Wars: Microfighters II»
+«Star Wars Scene Maker: Rebels»
+«Star Wars: Rise to Power»
+«Star Wars Jedi: Fallen Order»
+Неизвестная игра по «Звёздным войнам»
+Отменённые проекты
+«Star Wars: Ewok Adventure» was a game for the Atari 2600 that was developed alongside «Death Star Battle» but never released.
+«Vernost» was a cancelled LucasArts computer game that would center around the Rebels and Galactic Empire battling for control of the volcanic planet Vernost.
+«Proteus» was the working title for a cancelled Star Wars MMORPG that was developed alongside «Star Wars Galaxies» as a console-only game. Development began around 2003, but it was cancelled after several months due to difficulties creating the interface.
+«Star Wars: Imperial Commando» was the planned sequel to Star Wars: Republic Commando that was in planning even during the production of Republic Commando, but the game was cancelled in 2004 with only concept paintings made.
+«Star Wars: Knights of the Old Republic 3» was the planned third installment in the Knights of the Old Republic series. Knights of the Old Republic 3 was cancelled before it started official development, though the series received a "sequel" in the form of the spin-off MMORPG Star Wars: The Old Republic.
+«Star Wars: Smuggler» was a video game that started development in 2004 but was cancelled in 2005. Smuggler would see players assume the role of a smuggler in an Imperial-controlled galaxy.
+«Damage» was the code name for a cancelled Darth Maul video game that would have tied in to the Star Wars: The Clone Wars television series. The game was being developed by Red Fly Studios, which was to be bought by LucasArts. In 2011, LucasArts opted not to buy the video game company, and the project was subsequently cancelled.
+«Star Wars: 1313» was a planned "darker" Star Wars game. It would take place in the deeper levels of Coruscant, specifically level 1313, and would feature the darker side of Star Wars. A Mature rating was expected. However, the game was never released, as LucasArts was shut down by Disney after they acquired Lucasfilm.
+«Star Wars: First Assault» was a multiplayer Star Wars game in development at LucasArts. It was cancelled along with Star Wars: 1313 after the closure of LucasArts following Disney's Lucasfilm acquisition.
+«Star Wars: Attack Squadrons» was an online multiplayer space combat game in development by Disney Interactive and Area 52 Games. The game was officially announced in 2013, with a five-month beta occurring in 2014 before cancellation. The game would have featured modifiable ships, 16 player matches, and three battle modes.
+Безымянные проект Visceral Games]]></text>
+</doc>

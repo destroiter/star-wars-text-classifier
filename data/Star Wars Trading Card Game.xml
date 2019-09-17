@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/Star_Wars_Trading_Card_Game]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Star Wars Trading Card Game]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Star Wars Trading Card Game]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Star Wars Trading Card Game — карточная игра, которая была выпущена «Wizards of the Coast» после получения лицензии коллекционной карточной игры, данная этой компании в конце 2001. До этого, компания «Decipher» имела лицензии и использовала ее для производства Star Wars Customizable Card Game, Young Jedi Collectible Card Game и Jedi Knights Trading Card Game. Ближе к концу 2005 Wizards of the Coast объявили, что «Звёздные войны: Игра для коллекционных карточек» будет отложена на неопределенный срок, хотя бы они по-прежнему сохраняли лицензию. Однако, 28 января 2010 объявили, что «в условиях экономического спада», лицензия на производство всех своих товаров по «Звездным войнам» не будет продлены в мае того года. После окончания срока действия лицензии Wizards of the Coast не выпустили какие-либо сопутствующие материалы по Звездным войнам.
+После того, как Wizards of the Coast прекратила некоммерческое создание карточек, сообщество игроков, называемое Независимым комитетом по развитию, начало создавать виртуальные карты, которые можно было загрузить и распечатать, чтобы продолжить игру. Они имеют в настоящее время шесть расширения, доступные для загрузки.]]></text>
+</doc>

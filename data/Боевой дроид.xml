@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B4%D1%80%D0%BE%D0%B8%D0%B4/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Боевой дроид]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о дроидах]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Боевые дроиды - тип дроидов, специально предназначенный для боевых действий.
+Список боевых дроидов, использовавшихся КНС
+Боевой дроид B1
+Дроид захвата B1
+Ракетный боевой дроид B1
+Боевой супердроид B2
+Ракетный боевой супердроид
+Тяжеловооружённый боевой супердроид
+Дроид захвата B2
+Дройдека
+Дройдека-снайпер
+Аква-дроид
+IG-100 «Магнастраж»]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D1%8B%D0%B5_%D0%BE%D1%87%D0%BA%D0%B8/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Защитные очки]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки о технологиях]]></item>
+    <item type="str"><![CDATA[Неполный список]]></item>
+    <item type="str"><![CDATA[Защитные очки]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Защитные очки (англ. Goggles) — приспособления для защиты глаз. Их обычно носили водители гравициклов или гоночных подов, а также представители рас, таких как скакоане, которые были чувствительны к изменениям в атмосфере.
+Мусорщица Рей носила самодельные очки, сделанные из старых окуляр со шлемов штурмовиков.]]></text>
+</doc>

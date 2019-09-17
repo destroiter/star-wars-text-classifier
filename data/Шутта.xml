@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A8%D1%83%D1%82%D1%82%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Шутта]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Животные по алфавиту]]></item>
+    <item type="str"><![CDATA[Животные Рилота]]></item>
+    <item type="str"><![CDATA[Сленг]]></item>
+    <item type="str"><![CDATA[Существа неизвестного типа питания]]></item>
+    <item type="str"><![CDATA[Существа неизвестной разумности]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Шутта (англ. Schutta) — хорькоподобное животное, обитавшее на Рилоте. Тви'леки, а также некоторые люди, использовали это слово в качестве оскорбления.]]></text>
+</doc>

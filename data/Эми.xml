@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%AD%D0%BC%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Эми]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Люди]]></item>
+    <item type="str"><![CDATA[Жители Татуина]]></item>
+    <item type="str"><![CDATA[Рабы]]></item>
+    <item type="str"><![CDATA[Родившиеся в 38 ДБЯ]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Эми (англ. Amee) — человек, девочка, жившая среди рабов Мос-Эспы на Татуине. Ей было шесть лет во время вторжения на Набу, и она была одним из друзей детства Энакина Скайуокера. Носила брекеты.
+Биография
+Эми родилась в семье рабов, принадлежавших Йору Миллто. Когда Эми было четыре года, её мать, Хала, была похищена пиратом-работорговецем Крейном.
+Эми продолжала жить на Татуине с отцом. Она работала рабом в доме богатых тунгов Мос-Эспа.
+Позже Эми была свидетельницей свадьбы Шми Скайуокер и Клигга Ларса.
+За кулисами
+В «Скрытой угрозе» Эми сыграла Кэти Лукас.]]></text>
+</doc>

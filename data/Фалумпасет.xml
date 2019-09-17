@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A4%D0%B0%D0%BB%D1%83%D0%BC%D0%BF%D0%B0%D1%81%D0%B5%D1%82/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Фалумпасет]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Животные по алфавиту]]></item>
+    <item type="str"><![CDATA[Животные Набу]]></item>
+    <item type="str"><![CDATA[Млекопитающие животные]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Фалумпасеты (англ. Falumpaset) – крупные млекопитающие родом с планеты Набу. Они были одомашнены гунганами и вместе с другими выносливыми животными, например, фамбаа, использовались для перевозки тяжелых грузов, таких как генераторы дефлекторных щитов, использованные в Битве за Набу.]]></text>
+</doc>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%91%D0%B0%D0%BA%D1%82%D0%B0/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Бакта]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Бакта (англ. Bacta) — густая, студенистая субстанция. обладавшая невероятными целебными свойствами. Она помогала в исцелении организма, в том числе отращивании тканей, в том числе нервов, кожи и мышц. Раненые индивиды могли быть помещены в заполненные бактой цистерны, в которых исцеление проходило значительно быстрее.]]></text>
+</doc>

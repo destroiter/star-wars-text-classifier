@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/9_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[9 декабря]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Декабрь]]></item>
+    <item type="str"><![CDATA[9 декабря]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[9 декабря — 343-й день года (344-й в високосные годы) в григорианском календаре. До конца года остаётся 22 дня.
+1998 — публикация комикса Crimson Empire II: Council of Blood 2.
+2008 — публикация книги The Complete Star Wars Encyclopedia.
+2008 — публикация книги The Clone Wars: Wild Space]]></text>
+</doc>

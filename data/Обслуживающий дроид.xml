@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9E%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B8%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%B4%D1%80%D0%BE%D0%B8%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Обслуживающий дроид]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о дроидах]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Обслуживающие дроиды (англ. maintenance droids) или ремонтные дроиды (англ. repair droids) — дроиды, предназначенные для поддержания чистоты в помещениях, проведения технического обслуживания и ремонта систем, выполнения прочих эксплуатационных задач. Примерами обслуживающих дроидов могли служить пит-дроиды, обслуживавшие гоночные поды , вспомогательные дроиды серии T3, дроиды-рабочие BLX, ремонтные дроиды WED Treadwell, дроиды серии MSE и некоторые типы дроидов-астромехаников.]]></text>
+</doc>

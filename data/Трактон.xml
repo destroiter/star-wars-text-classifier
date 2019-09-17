@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A2%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Трактон]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Куаррены]]></item>
+    <item type="str"><![CDATA[Канцелярские работники и помощники]]></item>
+    <item type="str"><![CDATA[Учёные]]></item>
+    <item type="str"><![CDATA[Умершие в 30 ДБЯ]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Трактон (англ. Tracton) — мужчина-куаррен, помощник сенатора Тиккеса в 30 ДБЯ.
+Биография
+Учёный, Трактон хорошо знал планетарную экосистему, метеорологию и минералогию. По прибытии на Кофриджин V Тиккес захотел, чтобы Трактон проанализировал минералы из убежища Тёмной женщины для финансовых активов. В отличие от Тиккеса, Трактон очень уважал всех джедаев и даже А'Шарада Хетта, которого Тиккес называл «диким». Трактон был убит Оррой Синг, когда та проникла на каламарианский церемониальный корабль Тиккеса.]]></text>
+</doc>

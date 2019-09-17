@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D1%8B/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Цветы]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки о растениях]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Цветы (англ. Flowers) — органические структуры, произраставшие на некоторых планетах, существовавшие в великом разнообразии цветов. Некоторые цветы расцветали на деревьях, как на деревьях с голубыми цветами.]]></text>
+</doc>

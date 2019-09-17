@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B4%D1%80%D0%BE%D0%B8%D0%B4-%D0%B8%D1%81%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D1%81_%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D1%8F%D0%B5%D0%BC%D0%BE%D0%B9_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%B5%D0%B9/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Боевой дроид-истребитель с изменяемой геометрией]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о транспортных средствах]]></item>
+    <item type="str"><![CDATA[Типы звездолётов КНС]]></item>
+    <item type="str"><![CDATA[Типы дроидов-истребителей]]></item>
+    <item type="str"><![CDATA[Типы звездолётов Торговой федерации]]></item>
+    <item type="str"><![CDATA[Дроиды-истребители типа «Стервятник»]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Боевой дроид-истребитель с изменяемой геометрией (англ. Variable Geometry Self-Propelled Battle Droid, Mark I), также известный как Звёздный истребитель типа «Стервятник» (англ. Vulture-class starfighter) или просто дроид-стервятник (англ. vulture droid), — беспилотная модель дроида-истребителя, стоявшая на вооружении Торговой федерации, а позже и Конфедерации независимых систем. Построенные на кафедральных заводах Кси Чара, их педантичное создание считалось актом религиозного поклонения.]]></text>
+</doc>

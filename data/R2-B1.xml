@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/R2-B1]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[R2-B1]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Дроиды-астромеханики]]></item>
+    <item type="str"><![CDATA[Дезактивированные в 32 ДБЯ]]></item>
+    <item type="str"><![CDATA[Серия R]]></item>
+    <item type="str"><![CDATA[Дроиды-астромеханики серии R2]]></item>
+    <item type="str"><![CDATA[Продукция «Промышленных автоматов»]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[R2-B1 - дроид-астромеханик серии R2, принадлежавший королевскому дому Набу.
+Биография
+R2-B1 был произведён Индустриал Аутоматон и являлся чуть ли не копией R2-D2. Последней из миссий астромеханика стало спасение корабля королевы Амидалы в 32 ДБЯ. Дроид развалился на куски во время починки генератора.
+За кулисами
+Компания LEGO произвела минифигурку R2-B1, которая на данный момент является одной из редких минифигурок серии «Star Wars».]]></text>
+</doc>

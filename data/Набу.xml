@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9D%D0%B0%D0%B1%D1%83/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Набу]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о планетах]]></item>
+    <item type="str"><![CDATA[Планеты по алфавиту]]></item>
+    <item type="str"><![CDATA[Планеты Среднего Кольца]]></item>
+    <item type="str"><![CDATA[Планеты Галактической Республики]]></item>
+    <item type="str"><![CDATA[Планеты Галактической Империи]]></item>
+    <item type="str"><![CDATA[Планеты Новой Республики]]></item>
+    <item type="str"><![CDATA[Планеты земного типа]]></item>
+    <item type="str"><![CDATA[Планеты с атмосферой I типа]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Набу (англ. Naboo) — планета с пышной растительностью, расположенная около границы Внешнего кольца. Являлась родиной гунганов и людей, известных как набуанцы. На Набу родились такие известные люди, как Падме Амидала и Шив Палпатин.]]></text>
+</doc>

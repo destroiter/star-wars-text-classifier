@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/R2-C4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[R2-C4]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Статьи с утверждениями без источников]]></item>
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Дроиды-астромеханики серии R2]]></item>
+    <item type="str"><![CDATA[Запрограммированные как мужчины]]></item>
+    <item type="str"><![CDATA[Дезактивированные в 32 ДБЯ]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Дроиды-астромеханики]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[R2-C4 - дроид-астромеханик серии R2, использовавшийся в Силах безопасности Королевского дома Набу [источник?].
+История применения
+Косический корабль набуанской королевы Амидалы был укомплектован набором из нескольких дроидов-астромехаников, одним из которых и был R2-C4 .
+Во время Битвы при Набу, непосредственно перед битвой в космосе, этот дроид находился в ангаре Тида вместе с членом эскадрильи «Браво» лейтенантом Гэвином Сайксом (Браво 6) .
+За кулисами
+В электронной энциклопедии Star Wars: Behind the Magic данный дроид ошибочно назван R2-D3.]]></text>
+</doc>

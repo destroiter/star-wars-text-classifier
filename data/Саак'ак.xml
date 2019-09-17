@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A1%D0%B0%D0%B0%D0%BA%27%D0%B0%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Саак'ак]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Заготовки о транспортных средствах]]></item>
+    <item type="str"><![CDATA[Флагманы]]></item>
+    <item type="str"><![CDATA[Звездолёты Торговой федерации]]></item>
+    <item type="str"><![CDATA[Линейные корабли типа «Барышник»]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Саак'ак (на основном галактическом языке Спекулянт) — неймодианский грузовой корабль LH-3210 типа «Барышник», имел форму подковы со «сферой» — капитанским мостиком. Был модифицирован неймодианцами для блокады Набу: толстая дюрастиловая броня, бластерные турели, хорошо защищенные коммуникационные коридоры. С «Саак'ака» вёлся контроль армии дроидов на Набу.]]></text>
+</doc>

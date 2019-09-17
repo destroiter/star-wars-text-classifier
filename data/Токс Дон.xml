@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A2%D0%BE%D0%BA%D1%81_%D0%94%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Токс Дон]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Родианцы]]></item>
+    <item type="str"><![CDATA[Бюрократы Галактической Республики]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Токс Дон (англ. Tox Don) — родианец, помощник сенатора от Родии Онаконды Фарра в Галактическом Сенате с 32 по 22 ДБЯ.]]></text>
+</doc>

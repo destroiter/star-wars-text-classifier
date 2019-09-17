@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A0%D1%83%D1%83%D0%A0%27%D0%A3%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[РууР'Ур]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Народ песков]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+    <item type="str"><![CDATA[Жители Татуина]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[РууР'Ур (англ. RuuR'Ur) — один из таскенов, пытавшихся подстрелить поды во время гонки Бунта Ив Классик на Татуине в 32 ДБЯ.]]></text>
+</doc>

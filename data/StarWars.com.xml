@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/StarWars.com]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[StarWars.com]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки об источниках информации]]></item>
+    <item type="str"><![CDATA[Веб-сайты]]></item>
+    <item type="str"><![CDATA[StarWars.com]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[StarWars.com — официальный сайт франшизы «Звёздных войн», основанный в ноябре 1996 г., под управлением компании Lucasfilm Ltd. На протяжении всей своей истории сайт много раз менял оформление, которое часто диктовалось выходом очередного эпизода «Звёздных войн». Наполнением сайта занимаются Бонни Бертон и Пита Вилмур, оформлением — Николь Лав, Деннис ФонГалле, Майк Янг и Крейг Дрейк.
+Сайт разделён на несколько разделов для новостей, видео, событий, фильмов, телепередач, игр, сообщества и банк данных. Ранее ресурс носил название Hyperspace и был доступен только для платных подписок. Одним из его популярных сегментов был Databank, который в сентябре 2011 г. был заменён на Энциклопедию, а затем — на обновлённый Databank.
+Внешние ссылки
+Официальный веб-сайт «Звёздных войн»
+Архив сайта StarWars.com (с 30 декабря 1996 года)]]></text>
+</doc>

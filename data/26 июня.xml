@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/26_%D0%B8%D1%8E%D0%BD%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[26 июня]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Июнь]]></item>
+    <item type="str"><![CDATA[26 июня]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[26 июня — 177-й день года (178-й в високосные годы) в григорианском календаре. До конца года остаётся 188 дней..
+1987 — родилась Зорайда Кордова.
+1997 — начались сьёмки фильма Эпизод I: Призрачная угроза.
+2000 — начались сьёмки фильма Эпизод II: Атака клонов.
+2003 — выпущена компьютерная игра Star Wars Galaxies: An Empire Divided (Платформа PC).]]></text>
+</doc>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%92%D0%B0%D0%BB%D1%8C%D0%B4%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Запчасти Вальда]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Локации Мос-Эспа]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Магазин Уотто была лавкой принадлежащая тойдарианцу-старьёвщику Уотто и располагавшаяся в городе Мос Эспа планеты Татуин. Основным товаром являлись запчасти космических кораблей; там работали рабы Энакин Скайуокер, Шми Скайуокер, родианец Вальд девочка Эми, а также работал дроид-астромеханик R2-T0. Позже повзрослевший Вальд, выигравший себе свободу на гонках, выкупил лавку, и она приобрела название «Запчасти Вальда».]]></text>
+</doc>

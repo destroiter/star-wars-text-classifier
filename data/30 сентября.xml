@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/30_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[30 сентября]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Сентябрь]]></item>
+    <item type="str"><![CDATA[30 сентября]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[30 сентября — 273-й день года (274-й в високосные годы) в григорианском календаре. До конца года остаётся 92 дня.
+1979 — родился Джон Кэздан.
+1997 — закончились съёмки фильма Эпизод I: Призрачная угроза.
+1997 — выпущена компьютерная игра Star Wars: Jedi Knight: Dark Forces II (Платформа PC).
+2003 — публикация книги Новая иллюстрированная энциклопедия. Звездолёты и транспортные средства.
+2003 — публикация книги Последнее пророчество.
+2006 — публикация книги Съеденные заживо на русском языке.
+2009 — выход комикса Наследие 40: Татуин, часть 4.]]></text>
+</doc>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9F%D1%8D%D0%BC%D0%BF%D0%B8]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Пэмпи]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Женщины]]></item>
+    <item type="str"><![CDATA[Рутанские тви'леки]]></item>
+    <item type="str"><![CDATA[Помощники сенаторов]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Пэмпи (англ. Pampy) была женщиной, тви'лекой-рутианкой, помощницей сенатора от планеты Рилот Орна Фри Таа.
+Биография
+В 32 ДБЯ Пэмпи работала помощницей сенатора Орна Фри Таа, как и её коллега-летанка.]]></text>
+</doc>

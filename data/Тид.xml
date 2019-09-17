@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A2%D0%B8%D0%B4/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Тид]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о локациях]]></item>
+    <item type="str"><![CDATA[Города Набу]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Тид (англ. Theed) — столица набуанцев, человеческого сообщества, жившего на планете Набу. В этом городе находился дворец Королевского дома Набу, размещавшийся на Дворцовой площади. Другими интересными местами столицы были: Внутренний двор дворца, генератор энергии и штаб-квартира королевских сил безопасности и королевского корпуса звёздных истребителей. Также в Тиде находились несколько университетов.]]></text>
+</doc>

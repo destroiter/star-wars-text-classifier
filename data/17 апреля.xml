@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/17_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[17 апреля]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Апрель]]></item>
+    <item type="str"><![CDATA[17 апреля]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[17 апреля — 107-й день года (108-й в високосные годы) в григорианском календаре. До конца года остаётся 258 дней.
+1951 — родилась Оливия Хасси.
+1952 — родился Джо Аласки.
+1973 — родился Каван Скотт.
+1973 — Джордж Лукас начал написание синопсиса «Звёздных войн».
+1987 — родился Гриффин Макэлрой.
+2003 — публикация журнала Star Wars: The Official Magazine 44.
+2004 — скончался Брюс Боа.
+2006 — на сайте Databank опубликованы итоги пятого раунда конкурса What's The Story?.
+2018 — публикация романа «Последний выстрел».
+2019 — публикация комикса TIE Fighter 1.
+2019 — публикация сборника Age of Rebellion Special 1.
+2019 — публикация комикса Star Wars Adventures 20.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/31_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[31 января]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Январь]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[31 января — 31-й день года в григорианском календаре. До конца года остаётся 334 дня (335 дней — в високосные годы).
+1998 - выпущена игра Jedi Knight: Mysteries of the Sith.
+2001 - публикация комикса Star Wars: Republic 26: Infinity's End, Part 4.
+2006 - публикация книги Outbound Flight Тимоти Зана.
+2007 - публикация комикса Star Wars Knights of the Old Republic 13: Days of Fear, Part 1.]]></text>
+</doc>

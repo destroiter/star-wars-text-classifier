@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BE%D0%BA%D1%80%D1%83%D0%B3]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Федеральный округ]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Округа Корусанта]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Федеральный округ, также известный как сенатский округ или законодательный округ, а также упоминаемый как центр Корусанта или центральный квадрат (англ. Federal District, Senate District, Legislative District, Core of Coruscant, Core Square) — центральный правительственный округ планеты Корусант. В этом округе находились здание Сената, проспект Основателей, здание офиса Сената и храм джедаев, после создания Галактической Империи переделанный в императорский дворец. К другим достопримечательностям относятся «500, ул. Республики», штаб-квартира Разведывательного управления флота и аркология КОМПОНП, где расположен центральный офис Имперского бюро безопасности.]]></text>
+</doc>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A0%D1%83%D1%82%D0%B8%D0%B0%D0%BD%D1%8B]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Рутианы]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Неполный список]]></item>
+    <item type="str"><![CDATA[Культура тви'леков]]></item>
+    <item type="str"><![CDATA[Рутанские тви'леки]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Рутианы, или тви'леки-рутианы — тви'леки, имевшие бирюзовый цвет кожи. Он был одним из наиболее редких оттенков, встречаясь реже красного, которым обладали тви'леки-летаны.
+Список известных рутианов
+Анн Гелла
+Танн Гелла
+Инетри Идассен
+Норкуна
+Пампи
+Алема Рар
+Рутианский септет
+Эйла Секура
+Орн Фри Таа
+Астраал Вао
+Грифф Вао
+Миссия Вао
+Шейдо Вао]]></text>
+</doc>

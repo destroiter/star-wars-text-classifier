@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/R2-T0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[R2-T0]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Дроиды-астромеханики]]></item>
+    <item type="str"><![CDATA[Серия R]]></item>
+    <item type="str"><![CDATA[Дроиды-астромеханики серии R2]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[R2-T0
+R2-T0 - дроид, принадлежавший Уотто в космодроме Мос-Эспа.
+Биография
+R2-T0 работал на свалке, когда в 32 ДБЯ Падме Амидала, Джар Джар Бинкс, Квай-Гон Джинн и Оби-Ван Кеноби посетили магазин Уотто. Также у дроида имелся небольшой фонарик.
+За кулисами
+R2-T0 был впервые назван благодаря LEGO, которая выпустила фигурку астромеханика в наборе вместе с Уотто.]]></text>
+</doc>

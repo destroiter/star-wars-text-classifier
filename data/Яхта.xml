@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%AF%D1%85%D1%82%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Яхта]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Типы яхт]]></item>
+    <item type="str"><![CDATA[Яхты]]></item>
+    <item type="str"><![CDATA[Классификация звездолётов]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Яхтой назывался любой звёздный корабль или водное транспортное средство, используемое главным образом для развлечения и отдыха. Большинство яхт имели размеры лёгких грузовых кораблей, однако, встречались экземпляры сравнимые с крупными звездолётами. Яхты были, как правило, очень дорогими судами с роскошным убранством интерьера кают. Такие корабли были относительно быстроходны, и, иногда, использовались контрабандистами, хоть и обладали меньшей грузоподъемностью по сравнению со специализированными судами.]]></text>
+</doc>

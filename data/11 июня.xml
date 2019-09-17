@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/11_%D0%B8%D1%8E%D0%BD%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[11 июня]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Июнь]]></item>
+    <item type="str"><![CDATA[11 июня]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[11 июня — 162-й день года (163-й в високосные годы) в григорианском календаре. До конца года остаётся 203 дня.
+1975 — родился Джон Туи.
+1996 — выход комикса Battle of the Bounty Hunters.
+2006 — скончался Тим Хилдебрандт.
+2008 — выход комикса Восстание 14: Малые победы, часть 4.
+2010 — выпущен видеоролик «Хронология 8: Гражданская война джедаев»
+2014 — выход комикса Бунтарка, часть 4.
+2014 — выход комикса Заря джедаев 13: Войны Силы, часть 3.]]></text>
+</doc>

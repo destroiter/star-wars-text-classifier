@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A2%D0%B5%D1%80%D0%B5%D0%BD%D1%81_%D0%A1%D1%82%D1%8D%D0%BC%D0%BF]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Теренс Стэмп]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о персоналиях из реального мира]]></item>
+    <item type="str"><![CDATA[Актёры «Звёздных войн»]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Теренс Стэмп (англ. Terence Stamp) (родился 22 июля 1938 года) — английский актёр, исполнивший роль Верховного Канцлера Финиса Валорума в фильме «Звёздные войны. Эпизод I: Скрытая угроза».
+За кулисами
+В Расширенной Вселенной рост Валорума определён как 1,70 метра, при этом Стэмп выше своего персонажа и его рост составляет 1,83 метра. В 1995 году Стэмп был помещён журналом «Empire» на 59 строчку в списке 100 самых сексуальных актёров в истории кинематографа.]]></text>
+</doc>

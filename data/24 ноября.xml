@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/24_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[24 ноября]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Ноябрь]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[24 ноября — 328-й день года (329-й в високосные годы) в григорианском календаре. До конца года остаётся 37 дней.
+1999 – публикация комикса Star Wars: Republic 12: Outlander, Part 6
+2004 – публикация комикса Star Wars: Obsession 1.
+2004 – публикация комикса Star Wars: Republic 71: The Dreadnaughts of Rendili, Part 3.
+2010 – публикация комикса Star Wars: Blood Ties: A Tale of Jango and Boba Fett, Part 4]]></text>
+</doc>

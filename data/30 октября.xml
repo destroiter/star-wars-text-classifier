@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/30_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[30 октября]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Октябрь]]></item>
+    <item type="str"><![CDATA[30 октября]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[30 октября — 303-й день года (304-й в високосные годы) в григорианском календаре. До конца года остаётся 62 дня.
+2001 — публикация книги Звезда за звездой.
+2008 — публикация книги Звезда Смерти на русском языке.
+2007 — публикация книги Истинное лицо.]]></text>
+</doc>

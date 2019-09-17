@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/24_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[24 сентября]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Сентябрь]]></item>
+    <item type="str"><![CDATA[24 сентября]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[24 сентября — 267-й день года (268-й в високосные годы) в григорианском календаре. До конца года остаётся 98 дней.
+1979 — закончились съемки фильма Эпизод V: Империя наносит ответный удар
+1997 — выход комикса Тёмное воинство, часть 5.
+1998 — выход комикса Сказания о джедаях: Искупление 3: Возвращение.
+2008 — выход комикса Наследие 28: Вектор, часть 9 .
+2008 — выход комикса Гибельные верфи.
+2008 — публикация сборника комиксов Luke Skywalker, Last Hope for the Galaxy.
+2009 — выпуск дополнения The Shadow Syndicate к игре Star Wars Galaxies Trading Card Game.
+2013 — публикация книги Империя и Восстание: Лезвие бритвы.
+2016 — публикация книги Star Wars Annual 2016.]]></text>
+</doc>

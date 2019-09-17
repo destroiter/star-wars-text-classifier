@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/Disney%E2%80%93Lucasfilm_Press]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Disney–Lucasfilm Press]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о компании или корпорации]]></item>
+    <item type="str"><![CDATA[Издательства]]></item>
+    <item type="str"><![CDATA[Книги издательства Disney–Lucasfilm Press]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Disney-Lucasfilm Press — компания, входящая в группу Disney Book Group и являющаяся дочерней Disney Publishing Worldwide, занимающаяся издательством книг по вселенной «Звёздных войн» под брендом Disney-lucasfilm.
+Опубликовано
+Для юных читателей
+
+Подростковые романы
+
+Книги для старшего подросткового возраста
+«Потерянные звёзды» (September 2015)
+«Асока» (October 2016)
+«Путь повстанца» (May 2017)
+«Лея, принцесса Альдераана» (September 2017)
+«Разыскиваются» (May 2018)
+«Тень королевы» (March 2019)
+Будущие книги
+Будущие подростковые романы
+«Star Wars: Myths & Fables» (August 2019)
+Будущие книги для старшего подросткового возраста
+«Поломанная судьба» (August 2019)
+Прочее
+«Проблемы с TIE истребителем» (Scheduled for release in March 2015, canceled in 2014)
+«Star Wars Joke Book» (Scheduled for release on September 27, 2016, pushed to July 18, 2017, and then cancelled.]]></text>
+</doc>

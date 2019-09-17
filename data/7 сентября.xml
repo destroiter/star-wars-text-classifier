@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/7_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[7 сентября]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Сентябрь]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[7 сентября — 250-й день года (251-й в високосные годы) в григорианском календаре. До конца года остаётся 115 дней.
+1975 — родился художник Брайан Руд.
+1985 — вышла в эфир первая серия Star Wars: Droids.
+1985 — вышла в эфир первая серия Star Wars: Ewoks.
+2011 – публикация комикса Star Wars: Dark Times 19: Out of the Wilderness, Part 2
+2015 – статья Дроид-дознаватель стала одиннадцатитысячной статьёй русской Вукипедии.
+2017 — публикация шестой главы манги «Потерянные звёзды».]]></text>
+</doc>

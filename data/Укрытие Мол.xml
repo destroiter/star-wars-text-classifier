@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A3%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5_%D0%9C%D0%BE%D0%BB]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Укрытие Мол]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Статьи с крупными спойлерами]]></item>
+    <item type="str"><![CDATA[Заготовки о зданиях]]></item>
+    <item type="str"><![CDATA[Планетарные локации]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Укрытие Мол (англ. Mol's hideout) было крепостью и оперативным штабом фоллинки-охотника за головами Шенды Мол. Укрытие находилось на покрытой джунглями планете Нумидиан-Прайм. Выслеживая Мол, члены ударной группы джедаев Квай-Гон Джинн и Дуку проследили за ней до её укрытия.]]></text>
+</doc>

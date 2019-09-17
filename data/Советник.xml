@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D0%BD%D0%B8%D0%BA]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Советник]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о титулах, званиях или специальностях]]></item>
+    <item type="str"><![CDATA[Политические титулы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Советник — лицо, дававшее советы другим лицам, таким как политики, главы государств, бюрократы или военачальники. Советник давал консультации по многим актуальным вопросам в области политики, дипломатии, военной стратегии и так далее.
+Должности советников
+Клон-советник
+Имперский советник
+Джедай-советник]]></text>
+</doc>

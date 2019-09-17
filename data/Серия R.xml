@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%A1%D0%B5%D1%80%D0%B8%D1%8F_R]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Серия R]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Серия R]]></item>
+    <item type="str"><![CDATA[Дроиды-астромеханики]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Дроид-астромеханик серии R1
+Дроид-астромеханик серии R2
+Дроид-астромеханик серии R3
+Дроид-астромеханик серии R4
+Дроид-астромеханик серии R5
+Дроид-астромеханик серии R6
+Дроид-астромеханик серии R7
+Дроид-астромеханик серии R8
+Дроид-астромеханик серии R9]]></text>
+</doc>

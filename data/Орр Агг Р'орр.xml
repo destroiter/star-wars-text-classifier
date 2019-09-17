@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9E%D1%80%D1%80_%D0%90%D0%B3%D0%B3_%D0%A0%27%D0%BE%D1%80%D1%80]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Орр Агг Р'орр]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Персонажи по алфавиту]]></item>
+    <item type="str"><![CDATA[Заготовки о персонажах]]></item>
+    <item type="str"><![CDATA[Народ песков]]></item>
+    <item type="str"><![CDATA[Жители Татуина]]></item>
+    <item type="str"><![CDATA[Умершие в 32 ДБЯ]]></item>
+    <item type="str"><![CDATA[Умершие на Татуине]]></item>
+    <item type="str"><![CDATA[Мужчины]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Орр Агг Р'орр (англ. Orr Agg R'orr) — представитель расы тускенов, стрелял из укрытия по подрейсеру Тимто Палаглиса во время гонок Бунта Ив Классик на Татуине в 32 ДБЯ. Чуть позднее Джанго Фетт получил заказ от семьи Пагалиса на убийство Орра Агга Р'орра, который охотник за головами с успехом выполнил и получил за это 3000 кредитов.]]></text>
+</doc>

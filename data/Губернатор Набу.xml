@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%93%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%BE%D1%80_%D0%9D%D0%B0%D0%B1%D1%83/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Губернатор Набу]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Политические титулы]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Губернатор Набу (англ. Governor of Naboo) — титул главы Королевского консультативного совета. В задачи губернатора также входило исследование всех тем, входящих в повестку дня монарха, а также решение ежедневных административных вопросов.
+Губернатор Сио Биббл занимал эту должность в течении правления нескольких монархов Набу: будучи избранным при короле Веруне, он оставался в этой позиции в сроки королев Амидалы, Джамиллии, Ниютни и Апайланы. После битвы при Эндоре этот пост занимал Донта Гессет.]]></text>
+</doc>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/12_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[12 ноября]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Ноябрь]]></item>
+    <item type="str"><![CDATA[12 ноября]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[12 ноября — 316-й день года (317-й в високосные годы) в григорианском календаре. До конца года остаётся 49 дней.
+1929 — родился Джон Холлис
+1976 — первая публикация книги Звёздные войны. Эпизод IV: Новая Надежда.
+1983 — публикация книги Лэндо Калриссиан и Звёздная пещера ТонБоки.
+1996 — публикация книги Return of the Jedi: The National Public Radio Dramatization.
+2002 — публикация книги Звёздные войны. Эпизод II: Атака клонов.
+2002 — публикация книги The Art of Star Wars Episode II: Attack of the Clones.
+2003 — на телеэкраны вышла 4 глава Войн клонов.
+2010 — вышел в эфир эпизод «Охота на Зиро»]]></text>
+</doc>

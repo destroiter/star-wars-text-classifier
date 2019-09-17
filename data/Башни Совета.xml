@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%91%D0%B0%D1%88%D0%BD%D0%B8_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D0%B0]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Башни Совета]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Каноничные статьи]]></item>
+    <item type="str"><![CDATA[Локации Храма джедаев]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Башни Совета (англ. Council Towers) — четыре башни (Башня первого знания, Башня совета назначения, Башня высшего совета и Башня совета примирения), окружавшие Шпиль спокойствия Храма джедаев на Корусанте. В каждой из четырёх башен заседал один из советов, руководивших деятельностью Ордена джедаев.]]></text>
+</doc>

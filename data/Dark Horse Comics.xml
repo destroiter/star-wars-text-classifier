@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/Dark_Horse_Comics]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Dark Horse Comics]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Издательства]]></item>
+    <item type="str"><![CDATA[Комиксы Dark Horse]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Dark Horse Comics, Inc. — частная компания из штата Орегон в США, основанная в 1986 году. В данный момент имеет корпоративные штабы в Милуоки и Орегоне.
+Основанная в 1986 Майком Ричардсоном, компания поддерживающая идеальную атмосферу для творчества профессионалов, Dark Horse Comics вырос и стал третьим по величине издателем комиксов в Соединенных Штатах, лицом компании стало качество и разнообразие выпускаемого продукта. Dark Horse Comics и ее дочение компании имеют более 350 наименований выпускаемого товара, выпускаемого под собственной маркой, в эту коллекцию входят: комиксы, книги, фильмы, ролики и программы на телевидении, игры, игрушки и коллекционные предметы. В 2008 году, Dark Horse Comics экспортирует свои товары в более чем пятьдесят стран по всему миру, сохраняя и продолжая свои традиции.
+Комиксы
+Основным продуктом компании Dark Horse Comics, являются именно комиксы, о чем собственно и говорит само название организации. Являясь одним из самых популярных издателей комиксов, публикует не только отдельные произведения, но и целые серии посвященные вселенным, таким как вселенная Звездных войн.
+Список зон издательства:
+Amano
+Art Book
+Buffy
+Conan
+Emily the Strange
+Hellboy/B.P.R.D.
+Horror
+Indiana Jones
+Manga
+Miller/Sin City/300
+Star Wars
+The Goon
+Usagi Yojimbo
+Изданные комиксы]]></text>
+</doc>

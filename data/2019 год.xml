@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/2019_%D0%B3%D0%BE%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[2019 год]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Годы (реальный мир)]]></item>
+    <item type="str"><![CDATA[2010-е]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Список событий 2019 года, связанных со вселенной «Звёздных войн».
+Май
+4 умер Питер Михью
+19 – 20-я годовщина со дня выхода фильма «Star Wars: Episode I The Phantom Menace».
+Декабрь
+The Walt Disney Company выпустит «Звёздные войны. Эпизод IX».]]></text>
+</doc>

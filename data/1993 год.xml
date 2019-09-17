@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/1993_%D0%B3%D0%BE%D0%B4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[1993 год]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Годы (реальный мир)]]></item>
+    <item type="str"><![CDATA[1993 год]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Список событий 1993 года, связанных со вселенной «Звёздных войн».
+Январь
+01 — публикация Mission from Mount Yoda
+Февраль
+ ?? — Выпуск Star Wars: X-wing.
+Май
+01 — публикация The Last Command.
+Май — публикация Galaxy Guide 9: Fragments from the Rim.
+Август
+8 — умер Микки Мортон.
+16 — родился Камерон Монахан.
+Октябрь
+01 — публикация комикса Tales of the Jedi 1: Ulic Qel-Droma and the Beast Wars of Onderon, Part 1.
+Ноябрь
+01 — публикация The Truce at Bakura.
+01 — публикация комикса Tales of the Jedi 2: Ulic Qel-Droma and the Beast Wars of Onderon, Part 2.
+23 — Издание Star Wars Trilogy: The Original Soundtrack Anthology.
+ ?? — Издание Han Solo and the Corporate Sector Sourcebook.
+Декабрь
+01 — публикация комикса Tales of the Jedi 3: The Saga of Nomi Sunrider, Part 1.]]></text>
+</doc>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/9_%D0%B8%D1%8E%D0%BD%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[9 июня]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Июнь]]></item>
+    <item type="str"><![CDATA[9 июня]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[9 июня — 160-й день года (161-й в високосные годы) в григорианском календаре. До конца года остаётся 205 дней.
+1904 — образован Лондонский симфонический оркестр.
+1975 — родилась Светлана Кузнецова.
+1981 — родилась Натали Портман.
+1999 — публикация книги «Episode I: The Gungan Frontier: Официальное руководство Prima по стратегии».
+2004 — публикация сборника комиксов «Войны клонов, том 4: Свет и тьма».
+2007 — публикация комикса «Джедай: Шаак Ти» на русском языке.
+2015 — публикация книги «Битва до конца».]]></text>
+</doc>

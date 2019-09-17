@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/8_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[8 апреля]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Апрель]]></item>
+    <item type="str"><![CDATA[8 апреля]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[8 апреля — 98-й день года (99-й в високосные годы) в григорианском календаре. До конца года остаётся 267 дней.
+1949 — родился Джон Мэдден.
+1974 — родилась Ннеди Окорафор.
+1980 — родилась Кэти Сакхофф.
+1992 — родилась Шелби Янг.
+1998 — публикация комикса «Тени Империи: Эволюция, часть 3».
+2000 — скончался Альфредо Алькала.
+2004 — на телеэкраны вышла 20 глава анимационного сериала «Звёздные войны: Войны клонов».
+2015 — публикация комикса «Звёздные войны. Дарт Вейдер 4: Вейдер, часть 4».]]></text>
+</doc>

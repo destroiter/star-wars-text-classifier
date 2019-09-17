@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/DUM-4]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[DUM-4]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Легендарные статьи]]></item>
+    <item type="str"><![CDATA[Дроиды-рабочие]]></item>
+    <item type="str"><![CDATA[Запрограммированные как мужчины]]></item>
+    <item type="str"><![CDATA[Жители Татуина]]></item>
+    <item type="str"><![CDATA[Пит-дроиды]]></item>
+    <item type="str"><![CDATA[DUM-серия]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[DUM-4 — пит-дроид серии DUM, наряду с другими пит-дроидами работавший во время гонок Бунта Ив Классик.
+Биография
+До гонки DUM-4 попросили найти штепсель для подрейсера Энакина Скайуокера. Когда гонка началась, DUM-4 остался помогать гонщикам попавшим на пит-стоп. Однако, пытаясь исправить отказ двигателя на подрейсере Оди Мандрелла, маленький дроид был всосан в двигатель. Он разрушил весь двигатель, но сам всё-таки уцелел.]]></text>
+</doc>

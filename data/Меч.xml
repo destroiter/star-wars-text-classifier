@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc>
+  <source><![CDATA[https://starwars.fandom.com/ru/wiki/%D0%9C%D0%B5%D1%87/%D0%9A%D0%B0%D0%BD%D0%BE%D0%BD]]></source>
+  <category verify="true" type="str" auto="true">Фантастика</category>
+  <title verify="true" type="str" auto="true"><![CDATA[Меч]]></title>
+  <keywords verify="true" type="list" auto="true">
+    <item type="str"><![CDATA[Заготовки о технологиях]]></item>
+    <item type="str"><![CDATA[Мечи]]></item>
+  </keywords>
+  <text verify="true" type="str" auto="true"><![CDATA[Меч (англ. Sword) — оружие ближнего боя с длинным клинком. В большинстве уголков галактики мечи выполняли церемониальные функции, так как уступали в эффективности бластерам, однако джедаи продолжали использовать световые мечи, клинок которых представлял из себя формированный сгусток плазмы, в качестве основного оружия. Также к мечам относились длинные виброклинки и электрические мечи кейджских воинов.]]></text>
+</doc>
