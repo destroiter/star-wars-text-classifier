@@ -1,4 +1,4 @@
-package ru.starwarstextclassifier.server.controllers.classificationcontroller;
+package ru.starwarstextclassifier.webclassifiercore.controllers.classificationcontroller.responses;
 
 import ru.starwarstextclassifier.classifier.TextClass;
 

@@ -1,8 +1,8 @@
-package ru.starwarstextclassifier.server.controllers.articlescontroller;
+package ru.starwarstextclassifier.webclassifiercore.controllers.articlescontroller.responses;
 
-import ru.starwarstextclassifier.server.database.ArticleFullRecord;
+import ru.starwarstextclassifier.webclassifiercore.database.entities.ArticleFullRecord;
 
-class ArticleResponse {
+public class ArticleResponse {
     private ArticleFullRecord article;
     
     public ArticleResponse(ArticleFullRecord article) {

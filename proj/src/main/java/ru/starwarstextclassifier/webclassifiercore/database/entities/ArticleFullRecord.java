@@ -1,4 +1,4 @@
-package ru.starwarstextclassifier.server.database;
+package ru.starwarstextclassifier.webclassifiercore.database.entities;
 
 import ru.starwarstextclassifier.classifier.TextClass;
 

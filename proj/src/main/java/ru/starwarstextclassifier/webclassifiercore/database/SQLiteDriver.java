@@ -1,5 +1,7 @@
-package ru.starwarstextclassifier.server.database;
+package ru.starwarstextclassifier.webclassifiercore.database;
 
+import ru.starwarstextclassifier.webclassifiercore.database.entities.ArticleShortRecord;
+import ru.starwarstextclassifier.webclassifiercore.database.entities.ArticleFullRecord;
 import java.sql.*;
 import java.util.ArrayList;
 
@@ -7,7 +9,7 @@ import ru.starwarstextclassifier.classifier.TextClass;
 
 public class SQLiteDriver {
     
-    public static ArrayList<ArticleShortRecord> getAllArticles(TextClass textClass) {
+    public ArrayList<ArticleShortRecord> getAllArticles(TextClass textClass) {
         ArrayList<ArticleShortRecord> articles = new ArrayList<>();
         
         try (Connection conn = connect();
@@ -30,7 +32,7 @@ public class SQLiteDriver {
         return articles;
     }
     
-    public static ArticleFullRecord getArticle(int articleId) {
+    public ArticleFullRecord getArticle(int articleId) {
         ArticleFullRecord article = null;
         
         try (Connection conn = connect();
@@ -51,7 +53,7 @@ public class SQLiteDriver {
         return article;
     }
     
-    private static Connection connect() {
+    private Connection connect() {
         Connection conn = null;
         try {
             String url = "jdbc:sqlite:Articles.db";

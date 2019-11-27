@@ -1,4 +1,4 @@
-package ru.starwarstextclassifier.server;
+package ru.starwarstextclassifier.webclassifiercore;
 
 import java.util.Arrays;
 import java.util.Collections;

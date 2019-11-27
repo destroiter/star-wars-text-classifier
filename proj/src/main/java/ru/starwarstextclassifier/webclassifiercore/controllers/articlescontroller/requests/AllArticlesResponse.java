@@ -1,8 +1,8 @@
-package ru.starwarstextclassifier.server.controllers.articlescontroller;
+package ru.starwarstextclassifier.webclassifiercore.controllers.articlescontroller.requests;
 
 import java.util.ArrayList;
 
-import ru.starwarstextclassifier.server.database.ArticleShortRecord;
+import ru.starwarstextclassifier.webclassifiercore.database.entities.ArticleShortRecord;
 
 public class AllArticlesResponse {
     private ArrayList<ArticleShortRecord> articles;
